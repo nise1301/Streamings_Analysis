@@ -5943,7 +5943,7 @@ Vika!,movie,Documentary,2023,tt27773947,6.5,166
 Lemon Tree,movie,"Drama, Short",2023,tt27543446,6.3,267
 Me contro Te - Il film: Vacanze in Transilvania,movie,Family,2023,tt27715920,4.0,80
 Silos Baking Competition,movie,Reality-TV,2022,tt21613984,5.1,45
-Holiday Edition,movie,Reality-TV,2022,tt24513336,6.9,89
+Holiday Edition,movie,Reality-TV,2022,tt24513336,6.85,89
 As It Was,movie,"Drama, Short",2023,tt27611321,6.0,75
 Breaking New Ground: Expanding the Silos,movie,Documentary,2021,tt14214350,6.9,162
 When the Sun Sets,movie,Não informado,2023,Não informado,6.5,16
@@ -5988,7 +5988,7 @@ A Sensitive Person,movie,Drama,2023,tt19396766,5.3,22
 Aloha Heart,movie,"Comedy, Romance",2023,tt28145543,5.6,750
 I Won't Die,movie,Documentary,2023,tt19846046,7.1,47
 The Final Race,movie,"Action, Comedy, Family",2023,tt20355484,5.1,2005
-Matriarch of Murder?,movie,Crime,2023,Não informado,6.8,1394
+Matriarch of Murder?,movie,Crime,2023,Não informado,6.8,1398
 Battle Over Britain,movie,War,2023,tt18829674,4.0,450
 When We Lost to the Germans,movie,Drama,2023,tt18816030,7.1,202
 Blaga's Lessons,movie,Drama,2023,tt27996716,7.1,1126
@@ -6077,7 +6077,7 @@ Cookie Monster's Bake Sale,movie,Family,2023,Não informado,6.3,150
 A Bela América,movie,"Comedy, Drama, Thriller",2023,tt3259322,5.9,59
 Velký Pán,movie,"Animation, Comedy, Fantasy",2024,tt30877290,7.0,9
 AKA Mr. Chow,movie,Documentary,2023,tt28805537,6.8,306
-Beyond the Headlines: The Gabby Petito Story,movie,"Crime, Documentary",2022,Não informado,6.8,1394
+Beyond the Headlines: The Gabby Petito Story,movie,"Crime, Documentary",2022,Não informado,6.8,1398
 Lil Nas X: Long Live Montero,movie,"Documentary, Music",2023,tt28609811,6.1,310
 Disappeared: The Bradley Sisters,movie,"Crime, Documentary",2023,tt28703077,6.0,87
 The Price of Truth,movie,Documentary,2023,tt28650951,6.8,79
@@ -6330,7 +6330,7 @@ Sharktopia,movie,Documentary,2024,Não informado,6.9,162
 Paradijs,movie,Drama,2024,tt30327713,6.3,59
 Perdidos en el Amazonas,movie,Documentary,2024,Não informado,6.9,162
 The Killing of a Sacred Ant,movie,Drama,2024,Não informado,6.5,2625
-Who Is Donnie Rudd? Keith Morrison Investigates,movie,"Crime, Documentary",2018,tt27460104,7.1,1394
+Who Is Donnie Rudd? Keith Morrison Investigates,movie,"Crime, Documentary",2018,tt27460104,7.15,1398
 After Party,movie,Drama,2024,tt29719529,5.7,90
 Zuzubalândia: O Filme,movie,Animation,2024,tt33096983,5.4,11
 Amigos Sem Compromisso,movie,"Comedy, Romance",2024,tt28669770,6.0,40
@@ -6738,8 +6738,10 @@ Mystery Diagnosis,tv,"Biography, Documentary, Mystery",2005,tt0478078,8.3,319
 Life,tv,Documentary,2009,tt1533395,9.1,45744
 The Pacific,tv,"Action, Adventure, Drama",2010,tt0374463,8.3,138234
 Generation Kill,tv,"Drama, War",2008,tt0995832,8.4,61995
+,tv,Não informado,2005,Não informado,6.8,16
 Chopped,tv,"Game-Show, Reality-TV",2007,tt1353281,7.4,4729
 Bondi Vet,tv,"Documentary, Reality-TV",2009,tt1723626,7.5,381
+,tv,"Drama, Soap",2009,Não informado,7.2,2625
 National Geographic: Inside 9/11,tv,Documentary,2004,tt0481590,8.0,556
 Ghost Adventures,tv,"Documentary, History, Reality-TV",2008,tt1319900,7.2,10742
 Treme,tv,"Drama, Music",2010,tt1279972,8.3,16439
@@ -6748,6 +6750,7 @@ Scooby-Doo! Mystery Incorporated,tv,"Adventure, Animation, Comedy",2010,tt166005
 River Monsters,tv,"Adventure, Documentary, Mystery",2009,tt1476750,8.1,6049
 The Vampire Diaries,tv,"Drama, Fantasy, Horror",2009,tt1405406,7.7,367171
 Hung,tv,"Comedy, Drama",2009,tt1229413,7.2,23843
+,tv,Não informado,2009,Não informado,6.8,16
 Cake Boss,tv,"Family, Reality-TV",2009,tt1444382,6.6,3439
 Les bleus: premiers pas dans la police,tv,"Action, Crime, Drama",2006,tt0759057,6.7,209
 Nature's Great Events,tv,"Documentary, Family",2009,tt1380596,8.9,3416
@@ -6756,6 +6759,7 @@ Trailblazers,tv,Adventure,2016,tt5674984,6.8,22
 Chuggington,tv,"Adventure, Animation, Comedy",2008,tt1307510,5.8,907
 Crimes That Shook the World,tv,"Crime, Documentary",2006,tt0862568,7.5,178
 Ellen DeGeneres: Here and Now,tv,"Comedy, Documentary",2003,tt0365156,7.6,1626
+,tv,Não informado,2006,Não informado,6.8,16
 Norske Talenter,tv,"Music, Reality-TV",2008,tt2115019,3.9,40
 The Best Thing I Ever Ate,tv,Reality-TV,2009,tt1484823,7.0,317
 The Little Couple,tv,Reality-TV,2009,tt1476894,6.8,1069
@@ -6768,6 +6772,7 @@ Four Weddings,tv,Reality-TV,2009,tt1559672,5.6,389
 Against the Odds,tv,"Documentary, History, War",2014,tt3715438,7.9,85
 Swamp Loggers,tv,Reality-TV,2009,tt1466797,6.3,270
 Down and Dirty with Jim Norton,tv,Comedy,2008,tt1239394,6.7,148
+,tv,Não informado,2008,Não informado,6.8,16
 Giada's Holiday Handbook,tv,Family,2015,tt5223578,6.2,33
 On the Case with Paula Zahn,tv,"Crime, Documentary",2009,tt1554356,7.3,1154
 The Alzheimer's Project,tv,Documentary,2009,tt1432143,7.8,123
@@ -6778,9 +6783,11 @@ Animal Cops: Philadelphia,tv,Documentary,2008,tt1262401,7.4,134
 Medisch Centrum West,tv,"Comedy, Crime, Drama",1988,tt0094509,6.6,285
 Family Bonds,tv,Reality-TV,2004,tt0424638,7.5,75
 Solved,tv,"Crime, Documentary",2008,tt1307392,7.9,257
+,tv,Não informado,2007,Não informado,6.8,16
 Who Do You Think You Are?,tv,"Biography, Documentary, History",2010,tt1365047,8.0,1516
 House Hunters International,tv,Reality-TV,2006,tt0795129,7.0,1471
 North America,tv,"Documentary, Family",2013,tt2189258,8.4,629
+,tv,Não informado,2000,Não informado,6.8,16
 The Yogi Bear Show,tv,"Adventure, Animation, Comedy",1961,tt0255768,6.6,11494
 Toddlers & Tiaras,tv,Reality-TV,2009,tt1364951,1.7,3931
 Beauty and the Geek Australia,tv,Reality-TV,2009,tt1530517,6.3,353
@@ -6844,12 +6851,15 @@ Who the (Bleep) Did I Marry,tv,"Biography, Crime, Documentary",2010,tt1705096,6.
 Airplane Repo,tv,Drama,2010,tt1808720,4.9,503
 Sinnasnekker'n,tv,Reality-TV,2010,tt4265944,6.8,28
 Unique Eats,tv,Reality-TV,2010,tt1680663,7.6,75
+,tv,Não informado,2010,Não informado,7.0,16
+,tv,Documentary,2010,Não informado,7.1,162
 Twarza w twarz,tv,"Action, Crime, Drama",2007,tt1111729,5.3,160
 Earth Wonders,tv,Documentary,2010,tt4022336,7.1,162
 Alt for Norge,tv,Reality-TV,2010,tt3799414,8.1,79
 Chasing Classic Cars,tv,Documentary,2008,tt1357604,7.3,697
 If God Is Willing and da Creek Don't Rise,tv,Documentary,2010,tt1587373,7.6,603
 Odwróceni,tv,"Action, Crime, Drama",2007,tt0998810,7.6,518
+,tv,"Drama, Mystery",2012,Não informado,6.7,2625
 The Octonauts,tv,"Adventure, Animation, Comedy",2010,tt1710177,7.6,1822
 Food Paradise,tv,Reality-TV,2007,tt1200227,7.7,139
 The Amazing World of Gumball,tv,"Adventure, Animation, Comedy",2011,tt1942683,8.4,47822
@@ -6858,10 +6868,13 @@ Extreme Forensics,tv,"Crime, Documentary, Drama",2008,tt1298822,7.8,96
 Mysteries at the Museum,tv,"Adventure, Biography, Crime",2010,tt2076566,8.0,1489
 Auction Kings,tv,Reality-TV,2010,tt1772447,5.9,793
 Ullared,tv,Reality-TV,2009,tt2720700,6.3,156
+,tv,"Comedy, Documentary",2010,Não informado,6.5,2246
 Sofias änglar,tv,"Documentary, Reality-TV",2011,tt2322592,6.6,44
 Nightmare Next Door,tv,"Crime, Documentary",2011,tt1802968,7.0,1151
+,tv,Reality,2011,Não informado,6.1,41
 Stalked: Someone's Watching,tv,"Crime, Documentary, Mystery",2011,tt1866674,7.5,374
 Ninjago: Masters of Spinjitzu,tv,"Action, Adventure, Animation",2011,tt1871731,7.8,9709
+,tv,"Documentary, Comedy",2011,Não informado,7.1,162
 Out of the Wild: Venezuela,tv,Reality-TV,2011,tt1845623,7.8,167
 4-stjerners middag,tv,Reality-TV,2009,tt7050846,6.1,43
 Police Chase,tv,Documentary,2009,tt6103012,8.0,40
@@ -6877,6 +6890,7 @@ Mildred Pierce,tv,"Crime, Drama, Mystery",2011,tt1492030,7.6,25190
 My Babysitter's a Vampire,tv,"Action, Comedy, Family",2011,tt1727434,7.1,5637
 NY Ink,tv,Documentary,2011,tt1840051,6.6,466
 Parade's End,tv,"Action, Drama, Romance",2012,tt1956017,7.4,10991
+,tv,Documentary,2009,Não informado,7.2,162
 Finding Bigfoot,tv,"Documentary, Drama, Thriller",2011,tt1948830,4.1,2067
 Black Dynamite,tv,"Action, Adventure, Animation",2011,tt1608383,8.1,5128
 39 i pól,tv,Comedy,2008,tt1199743,6.3,357
@@ -6884,6 +6898,7 @@ One Man Army,tv,Reality-TV,2011,tt1995841,6.6,193
 Curiosity,tv,Documentary,2011,tt1564623,7.6,743
 MasterChef USA,tv,"Game-Show, Reality-TV",2010,tt1694423,7.2,10336
 Green Lantern: The Animated Series,tv,"Action, Adventure, Animation",2011,tt1724587,8.0,7896
+,tv,Documentary,2011,Não informado,7.1,162
 Loiter Squad,tv,Comedy,2012,tt2272367,7.0,2718
 The Dead Files,tv,"Fantasy, Horror, Reality-TV",2011,tt2012511,6.7,3338
 El perro y el gato,tv,"Animation, Family",2004,tt1686989,8.5,59
@@ -6892,6 +6907,7 @@ Unusual Suspects,tv,"Crime, Documentary",2010,tt1546360,7.5,1022
 Beware the Batman,tv,"Action, Adventure, Animation",2013,tt2329077,7.3,4858
 Banshee,tv,"Action, Crime, Drama",2013,tt2017109,8.4,136015
 Top Chef,tv,"Game-Show, Reality-TV",2006,tt0765425,7.7,7257
+,tv,Não informado,2011,Não informado,7.0,16
 Girls,tv,"Comedy, Drama",2012,tt1723816,7.4,80359
 American Guns,tv,Reality-TV,2011,tt2083423,6.2,519
 Bobby Flay's Barbecue Addiction,tv,Reality-TV,2011,tt1974228,6.7,43
@@ -6906,6 +6922,7 @@ Line of Duty,tv,"Crime, Drama, Mystery",2012,tt2303687,8.7,75857
 Love It or List It Vancouver,tv,Reality-TV,2013,tt2665420,6.8,683
 Bad Dog!,tv,Reality-TV,2010,tt1713441,6.5,30
 Unchained Reaction,tv,Reality-TV,2012,tt2230805,6.1,174
+,tv,Reality,2010,Não informado,6.1,41
 Teen Titans Go!,tv,"Action, Adventure, Animation",2013,tt2771780,5.7,27009
 Salvage Hunters,tv,Reality-TV,2011,tt2223298,7.8,695
 Long Island Medium,tv,"Documentary, Mystery, Reality-TV",2010,tt2010806,4.8,1554
@@ -6929,6 +6946,7 @@ The Originals,tv,"Drama, Fantasy, Horror",2013,tt2632424,8.2,154913
 Ben 10: Omniverse,tv,"Action, Adventure, Animation",2012,tt2293002,6.5,8983
 Uncle Grandpa,tv,"Animation, Comedy, Family",2010,tt3042608,4.6,7986
 Deadly Affairs,tv,"Crime, Documentary",2012,tt2509804,6.8,186
+,tv,"Comedy, Talk, Family",2005,Não informado,6.5,2246
 En stark resa med Morgan och Ola-Conny,tv,Comedy,2012,tt2354775,8.1,161
 The Tom and Jerry Show,tv,"Adventure, Animation, Comedy",2011,tt3559124,7.2,4272
 Lekarze,tv,Drama,2012,tt2364040,5.6,142
@@ -6977,6 +6995,7 @@ Buying Alaska,tv,Reality-TV,2012,tt2428042,6.8,205
 Say Yes to the Dress: Randy Knows Best,tv,Reality-TV,2011,tt1895104,6.3,39
 Inside the Gangsters Code,tv,Documentary,2013,tt2854116,7.1,128
 Gogglebox,tv,"Documentary, Reality-TV",2013,tt2762330,7.4,3149
+,tv,Documentary,2013,Não informado,7.1,162
 West End Salvage,tv,Documentary,2013,tt2740350,8.0,18
 Anthony Bourdain: Parts Unknown,tv,"Adventure, Documentary",2013,tt2845786,8.9,7421
 My Teen Is Pregnant and So Am I,tv,Reality-TV,2012,tt2322784,4.4,52
@@ -7025,6 +7044,7 @@ Monkie Kid,tv,"Action, Adventure, Animation",2020,tt12415378,7.4,1246
 Accused,tv,"Crime, Drama, Mystery",2023,tt7949212,7.0,6364
 Assasination Classroom,tv,"Action, Animation, Comedy",2013,tt3837246,7.9,24209
 Have I Got News for You,tv,News,2024,tt33096993,7.6,432
+,tv,Não informado,2014,Não informado,7.0,16
 From,tv,"Drama, Horror, Mystery",2022,tt9813792,7.8,143065
 Blue Lock,tv,"Animation, Sport, Thriller",2022,tt15222080,8.1,25513
 Barney's World,tv,"Adventure, Animation, Comedy",2024,tt26708692,4.2,126
@@ -7032,6 +7052,7 @@ Richard Hammond's Workshop,tv,Documentary,2021,tt14906022,8.0,1374
 Kindred Spirits,tv,Reality-TV,2016,tt6181672,7.1,1535
 Found,tv,"Crime, Drama, Mystery",2023,tt9071808,6.8,7593
 Texas Car Wars,tv,Reality-TV,2012,tt2395232,6.0,122
+,tv,"Crime, Documentary",2021,Não informado,6.8,1398
 Evil Lives Here,tv,"Biography, Crime, Documentary",2016,tt5489746,8.0,2309
 Inside West Coast Customs,tv,Reality-TV,2011,tt1885855,6.8,255
 Casa Grande,tv,Drama,2023,tt13609498,6.2,234
@@ -7053,6 +7074,7 @@ The Confidante,tv,Thriller,2024,tt32021861,6.5,423
 Family Secrets,tv,"Crime, Drama",2021,tt12979628,8.2,6687
 Airport 24/7: Miami,tv,Reality-TV,2012,tt2129470,5.9,121
 Chimp Crazy,tv,"Crime, Documentary",2024,tt32937646,7.3,2808
+,tv,"Kids, Animation",2021,Não informado,6.7,1354
 Peaky Blinders,tv,"Crime, Drama",2013,tt2442560,8.7,712506
 Euphoria,tv,Drama,2019,tt8772296,8.3,272382
 Mystery Diners,tv,Reality-TV,2011,tt2147632,3.7,1463
@@ -7071,6 +7093,7 @@ The Day of the Jackal,tv,"Action, Crime, Drama",2024,tt24053860,8.1,98606
 BattleBots,tv,"Action, Game-Show, Reality-TV",2015,tt4816364,8.0,2243
 Yukon Men,tv,"Adventure, Reality-TV",2012,tt2378020,7.2,931
 Outback Truckers,tv,"Documentary, Reality-TV",2012,tt4345548,7.3,330
+,tv,Reality,2013,Não informado,6.1,41
 Jaget,tv,Reality-TV,2023,tt29340108,6.4,65
 Alle mot alle,tv,Game-Show,2020,tt13085650,7.4,114
 Burning Bush,tv,"Biography, Drama, History",2013,tt2280344,7.8,1812
@@ -7115,7 +7138,6 @@ Riverdale,tv,"Crime, Drama, Mystery",2017,tt5420376,6.5,160705
 Wisting,tv,"Crime, Drama",2019,tt7875794,7.3,9289
 Fallen Idols: Nick and Aaron Carter,tv,Documentary,2024,tt32203228,6.1,822
 Scorned: Love Kills,tv,"Crime, Documentary",2012,tt2287041,6.9,307
-Scorned: Love Kills,tv,"Crime, Documentary",2012,tt2287041,6.9,307
 High School Moms,tv,Reality-TV,2012,tt2322090,6.6,27
 Looney Tunes Cartoons,tv,"Adventure, Animation, Comedy",2019,tt8543208,8.0,2232
 Luis Enrique presenta: No tenéis ni **** idea,tv,Sport,2024,tt33829541,7.6,83
@@ -7138,6 +7160,7 @@ Fat N' Furious: Rolling Thunder,tv,"Comedy, Reality-TV",2014,tt3803630,5.3,259
 Buying Naked,tv,"Comedy, Drama, Fantasy",2013,tt3456046,4.5,123
 Sex Sent Me to the ER,tv,"Comedy, Documentary, Drama",2013,tt3415250,5.1,442
 My Love from Another Star,tv,"Comedy, Drama, Fantasy",2013,tt3469052,8.2,18102
+,tv,Não informado,2001,Não informado,6.8,16
 Married at First Sight,tv,"Reality-TV, Romance",2014,tt3868860,6.2,2777
 The Knick,tv,"Drama, History",2014,tt2937900,8.5,54572
 Street Outlaws,tv,Reality-TV,2013,tt3027156,6.5,1164
@@ -7194,6 +7217,7 @@ The Young Pope,tv,Drama,2016,tt3655448,8.3,49763
 Ballers,tv,"Comedy, Drama, Sport",2015,tt2891574,7.8,78214
 Married at First Sight Australia,tv,Reality-TV,2015,tt4771108,6.0,1581
 Blindspot,tv,"Action, Crime, Drama",2015,tt4474344,7.3,81342
+,tv,Não informado,2013,Não informado,7.0,16
 Finding Jesus: Faith. Fact. Forgery.,tv,Documentary,2015,tt4459206,5.7,403
 Devil in the Details,tv,"Crime, Reality-TV",2014,tt3797228,8.0,46
 Pekín Express,tv,"Adventure, Game-Show, Reality-TV",2008,tt1560363,7.4,57
@@ -7208,9 +7232,11 @@ Tunnelbanan,tv,Reality-TV,2012,tt3463294,6.9,74
 Southern Fried Homicide,tv,"Crime, Documentary",2013,tt2906632,6.3,160
 Oh My Ghost,tv,"Comedy, Drama, Fantasy",2015,tt4799574,7.9,5797
 Fast N' Loud: Demolition Theater,tv,Reality-TV,2014,tt8999374,5.3,12
+,tv,Documentary,2012,Não informado,7.1,162
 Nybyggarna,tv,Reality-TV,2012,tt4532172,8.2,12
 Idris Elba: No Limits,tv,Documentary,2015,tt4947102,6.4,93
 Show Me a Hero,tv,"Drama, History",2015,tt2492296,7.9,12376
+,tv,"Animation, Kids",2014,Não informado,6.6,515
 Alaska: The Last Frontier,tv,Reality-TV,2011,tt1877010,7.6,1811
 Taskmaster,tv,"Comedy, Game-Show",2015,tt4934214,9.0,24689
 Our Little Family,tv,Reality-TV,2015,tt4458992,5.5,187
@@ -7285,7 +7311,9 @@ Shark,tv,Documentary,2015,tt4706496,8.3,325
 I Am Jazz,tv,Reality-TV,2015,tt4523638,4.3,1158
 Animals.,tv,"Animation, Comedy",2016,tt4953128,7.3,4485
 Halfworlds,tv,"Fantasy, Horror, Mystery",2015,tt4766568,5.8,802
+,tv,Não informado,2016,Não informado,7.0,16
 Doomed,tv,"Drama, Romance",2014,tt3468914,7.9,288
+,tv,Documentary,2016,Não informado,7.1,162
 Research Unit,tv,Crime,2006,tt0806905,5.6,274
 In Treatment,tv,Drama,2012,tt2317838,8.7,2400
 King Star King,tv,"Action, Animation, Comedy",2013,tt3038578,5.7,671
@@ -7294,6 +7322,7 @@ Bunnicula,tv,"Adventure, Animation, Comedy",2016,tt5444412,7.2,761
 Diesel Brothers,tv,Reality-TV,2016,tt5320618,6.6,631
 Unique Rides,tv,Reality-TV,2016,tt5437800,3.1,90
 Doraemon,tv,"Animation, Comedy, Drama",2005,tt4083422,8.4,4806
+,tv,Reality,2016,Não informado,6.1,41
 Race for the White House,tv,"Biography, Documentary, Drama",2016,tt5194802,7.7,592
 Paranormal Lockdown,tv,Reality-TV,2016,tt5512658,7.1,1937
 The Deuce,tv,"Crime, Drama, Mystery",2017,tt4998350,8.1,33624
@@ -7310,6 +7339,7 @@ The Powerpuff Girls,tv,"Action, Animation, Comedy",2016,tt4718304,3.7,5744
 Race of Life,tv,Documentary,2015,tt6767048,5.5,61
 Soy Luna,tv,"Comedy, Family, Music",2016,tt5189554,6.7,2083
 Lost & Found Music Studios,tv,"Family, Music",2015,tt5023972,6.6,722
+,tv,Reality,2015,Não informado,6.1,41
 The Night Of,tv,"Crime, Drama, Mystery",2016,tt2401256,8.4,183060
 Big Little Lies,tv,"Crime, Drama, Mystery",2017,tt3920596,8.4,236364
 W,tv,"Action, Comedy, Drama",2016,tt5797194,8.0,16205
@@ -7333,6 +7363,7 @@ Babylon Berlin,tv,"Crime, Drama, Thriller",2017,tt4378376,8.4,31905
 Legend of the Blue Sea,tv,"Comedy, Drama, Fantasy",2016,tt5766194,8.1,14629
 Tiny Luxury,tv,Reality-TV,2015,tt5092576,7.8,71
 Impossible Engineering,tv,"Documentary, History",2015,tt4648556,7.1,299
+,tv,Documentary,2007,Não informado,7.2,162
 Lone Star Law,tv,"Documentary, Western",2016,tt5796728,8.0,419
 High Maintenance,tv,"Comedy, Drama",2016,tt6078096,8.1,11319
 Shopping King Louie,tv,"Comedy, Romance",2016,tt5994306,7.6,1845
@@ -7457,6 +7488,7 @@ Good Bones,tv,Reality-TV,2016,tt5710198,7.4,1186
 Le Mans: Racing Is Everything,tv,"Documentary, Sport",2017,tt6628364,7.2,906
 The Chi,tv,Drama,2018,tt6294706,7.5,8809
 Gift ved første blikk,tv,Reality-TV,2014,tt7056862,5.0,16
+,tv,Comedy,2013,Não informado,6.5,2246
 Ultimate Weapons,tv,Reality-TV,2009,tt1709031,6.7,33
 Room 104,tv,"Comedy, Drama, Fantasy",2017,tt6064882,6.1,6431
 The Fragility of Bodies,tv,"Drama, Mystery, Thriller",2017,tt6913288,6.4,128
@@ -7480,6 +7512,7 @@ Arctic Rescue,tv,Reality-TV,2015,tt5037260,7.1,15
 Desert Flippers,tv,Reality-TV,2016,tt5990044,7.3,335
 Shattered,tv,"Crime, Documentary",2017,tt7312040,8.1,250
 Wild Hawaii,tv,Documentary,2014,tt4380034,7.0,236
+,tv,Não informado,2017,Não informado,7.0,16
 Bear Grylls: Extreme Survival Caught on Camera,tv,Reality,2014,tt3891132,7.6,13
 Mysteries of the Missing,tv,Documentary,2017,tt7493428,7.1,115
 Jul i Blodfjell,tv,"Comedy, Crime, Horror",2017,tt7704636,7.7,1158
@@ -7502,6 +7535,7 @@ Azja Express,tv,Reality-TV,2016,tt7172670,5.5,22
 Hey Duggee,tv,"Animation, Comedy, Family",2014,tt4291050,8.8,1578
 Evil Twins,tv,"Crime, Documentary",2012,tt2287998,6.8,137
 Haunted Towns,tv,Reality-TV,2017,tt7260852,5.3,265
+,tv,Reality,2017,Não informado,6.1,41
 Garage Rehab,tv,Documentary,2017,tt7318880,6.2,385
 Island Life,tv,Reality-TV,2015,tt5097258,7.1,75
 Grizzy and the Lemmings,tv,"Adventure, Animation, Comedy",2016,tt6717058,7.2,1172
@@ -7524,10 +7558,12 @@ Wacky Races,tv,"Animation, Family, Fantasy",2017,tt5520388,5.0,270
 Unexpected,tv,Reality-TV,2017,tt7789780,5.1,283
 Game of Stones,tv,Reality-TV,2014,tt3780362,6.7,133
 "Tiny House, Big Living",tv,Reality-TV,2014,tt4321400,6.5,130
+,tv,Documentary,2017,Não informado,7.1,162
 Find It Fix It Flog It,tv,Reality-TV,2016,tt9710812,7.5,122
 Who Killed Tupac?,tv,"Biography, Crime, Documentary",2017,tt7623616,5.7,237
 Village of the Damned,tv,Reality-TV,2017,tt7895532,7.4,16
 How It Really Happened with Jesse L. Martin,tv,"Crime, Documentary, Mystery",2016,tt6186030,7.2,310
+,tv,"Documentary, Talk",2016,Não informado,7.1,162
 The Heroic Quest of the Valiant Prince Ivandoe,tv,"Action, Adventure, Animation",2017,tt8649544,7.3,293
 Titans,tv,"Action, Adventure, Crime",2018,tt1043813,7.5,116385
 Neste sommer,tv,Comedy,2014,tt3446786,7.6,1335
@@ -7536,6 +7572,7 @@ Christmas Cookie Challenge,tv,"Game-Show, Reality-TV",2017,tt7674544,7.0,191
 Cake Hunters,tv,Reality-TV,2015,tt6980136,6.2,16
 Animal Cribs,tv,Reality-TV,2017,tt7588316,8.3,183
 Property Brothers at Home,tv,"Documentary, Reality-TV",2014,tt4210920,6.8,310
+,tv,Comedy,2017,Não informado,6.5,2246
 Flip or Flop Fort Worth,tv,Reality-TV,2017,tt7459336,7.9,121
 Mosaic,tv,"Crime, Drama, Mystery",2018,tt5056958,6.4,3919
 Texas Metal,tv,Reality-TV,2017,tt7614908,7.1,269
@@ -7546,6 +7583,7 @@ Family by the Ton,tv,Reality-TV,2018,tt7826126,6.5,115
 Goblin Works Garage,tv,Reality-TV,2018,tt11058052,6.0,123
 Love After Lockup,tv,"Reality-TV, Romance",2018,tt7721986,6.8,854
 Succession,tv,"Comedy, Drama",2018,tt7660850,8.8,317723
+,tv,Comedy,2018,Não informado,6.5,2246
 Seeking Sister Wife,tv,Reality-TV,2018,tt7988900,4.1,302
 Jodi Arias: An American Murder Mystery,tv,"Crime, Documentary",2018,tt7856156,7.0,760
 Earth to Luna!,tv,"Animation, Family, Musical",2014,tt6428704,7.6,161
@@ -7561,6 +7599,7 @@ Beachfront Bargain Hunt,tv,"Documentary, Family",2013,tt3672590,6.6,126
 Ed Stafford: Into the Unknown,tv,"Adventure, Documentary",2015,tt5141658,8.0,302
 Catherine the Great,tv,"Biography, Drama, History",2019,tt7243884,6.2,6795
 Bride Killa,tv,Crime,2018,tt7502460,6.7,62
+,tv,"Talk, Documentary",2018,Não informado,6.7,1354
 Who Killed Jane Doe?,tv,"Crime, Documentary",2016,tt5934392,7.5,123
 The Perfect Suspect,tv,Crime,2017,tt7766172,7.0,54
 The Little Drummer Girl,tv,"Drama, Thriller",2018,tt7598448,7.4,16280
@@ -7568,6 +7607,7 @@ The Radical Story of Patty Hearst,tv,Documentary,2018,tt8070516,7.5,299
 Dorothy and the Wizard of Oz,tv,"Adventure, Animation, Family",2017,tt7050978,5.9,165
 H2O: Mermaid Adventures,tv,"Adventure, Animation, Comedy",2015,tt4610750,5.4,303
 Flip or Flop Nashville,tv,"Comedy, Drama, Reality-TV",2018,tt7365526,7.1,99
+,tv,Documentary,2018,Não informado,7.1,162
 A Discovery of Witches,tv,"Drama, Fantasy, Romance",2018,tt2177461,7.8,69841
 True Conviction,tv,"Crime, Drama",2018,tt7817212,6.1,172
 Kiss of Death,tv,Drama,2017,tt7371948,7.4,40
@@ -7586,6 +7626,7 @@ My Lottery Dream Home,tv,Reality-TV,2015,tt4508624,6.7,813
 Log Cabin Living,tv,Reality-TV,2014,tt3776412,7.0,51
 Mary & Mike,tv,"Drama, Thriller",2018,tt7969272,7.4,141
 Megalo Box,tv,"Action, Animation, Drama",2018,tt7965802,7.8,4235
+,tv,Drama,2003,Não informado,7.2,2625
 Outback Opal Hunters,tv,Documentary,2018,tt8211564,7.0,337
 Unmasking a Killer,tv,Documentary,2018,tt8810506,6.9,215
 Camping,tv,Comedy,2018,tt8002604,5.1,3390
@@ -7600,7 +7641,9 @@ Danskebåten,tv,"Comedy, Reality-TV",2018,tt8215252,8.1,24
 El Maestro,tv,"Drama, Music",2017,tt7328848,7.9,82
 Dangerous Liaisons,tv,"Drama, Romance",2016,tt5349022,7.8,1960
 Ballmastrz 9009,tv,"Action, Animation, Comedy",2018,tt8170404,6.8,816
+,tv,Não informado,2018,Não informado,7.0,16
 "Ja, vi elsker camping",tv,Reality-TV,2017,tt7272060,7.8,30
+,tv,"Crime, Documentary, Drama, Reality",2018,Não informado,7.15,1398
 Miracle Workers,tv,"Comedy, Drama, Fantasy",2019,tt7529770,7.1,20274
 Godfather of Harlem,tv,"Crime, Drama",2019,tt8080122,8.1,23582
 Legendary Locations,tv,Documentary,2017,tt8640952,7.7,336
@@ -7634,7 +7677,9 @@ Dead North,tv,"Crime, Documentary",2018,tt8465938,7.4,333
 Alaska Gold Diggers,tv,Reality-TV,2013,tt3311582,4.9,47
 Dodo Heroes,tv,"Documentary, Reality-TV",2018,tt8559852,8.1,82
 Kongsvikklinikken,tv,Comedy,2018,tt8519578,6.0,45
+,tv,"Documentary, Crime, Reality",2017,Não informado,7.1,162
 The Wonderland Murders,tv,"Crime, Documentary",2018,tt7364546,6.9,232
+,tv,"Drama, Talk",2018,Não informado,6.7,2625
 Hidden Potential,tv,Reality-TV,2017,tt8341266,7.3,192
 The Mind of a Murderer,tv,Crime,2015,tt4374302,6.1,182
 The Purge,tv,"Action, Drama, Horror",2018,tt6110648,6.6,20530
@@ -7645,11 +7690,13 @@ Wellington Paranormal,tv,"Comedy, Crime, Fantasy",2018,tt6109562,7.6,8647
 Girl Meets Farm,tv,Documentary,2018,tt8510610,6.5,277
 My ID Is Gangnam Beauty,tv,"Comedy, Drama, Romance",2018,tt8585954,7.2,7335
 Millennium,tv,"Action, Crime, Mystery",2010,tt1634549,8.3,10790
+,tv,Não informado,1992,Não informado,6.8,16
 Latela,tv,"Documentary, Reality-TV",2013,tt2886594,7.8,79
 Holmes and Holmes,tv,Reality-TV,2016,tt8001366,7.8,112
 Stargirl,tv,"Action, Adventure, Crime",2020,tt8722888,7.1,21422
 Dr. Pimple Popper,tv,Reality-TV,2018,tt6045142,6.7,1381
 Gibo to Musume no Blues,tv,Family,2018,tt8685828,7.4,446
+,tv,Documentary,2019,Não informado,7.1,162
 The Shop,tv,Talk-Show,2018,tt8755712,6.8,1151
 Outback,tv,Documentary,2018,tt8668706,7.0,32
 Help! My House Is Haunted,tv,"Fantasy, Reality-TV",2018,tt7924262,5.1,529
@@ -7662,6 +7709,7 @@ The Gilded Age,tv,Drama,2022,tt4406178,8.1,42084
 Random Acts of Flyness,tv,"Comedy, Drama, Fantasy",2018,tt7942806,6.8,837
 Pamela Smart: An American Murder Mystery,tv,"Crime, Documentary",2018,tt8757062,6.6,290
 The Trap,tv,"Crime, Drama",2018,tt8542132,6.5,706
+,tv,Drama,2015,Não informado,6.7,2625
 Scaled,tv,Reality-TV,2018,tt9567342,7.6,36
 Cleo & Cuquin,tv,"Animation, Family",2018,tt7956374,7.1,136
 Ex on the Beach DK,tv,Reality-TV,2018,tt23159104,3.8,5
@@ -7675,6 +7723,7 @@ Bake It Like Buddy,tv,"Game-Show, Reality-TV",2018,tt8772782,5.0,17
 Arthurs Gesetz,tv,Comedy,2018,tt6516354,7.2,417
 Kizim,tv,Drama,2018,tt8961058,6.6,1268
 Chandra Levy: An American Murder Mystery,tv,"Crime, Documentary",2017,tt7293240,6.5,330
+,tv,Talk,2018,Não informado,6.7,1354
 All American,tv,"Drama, Sport",2018,tt7414406,7.6,15662
 Saving My Tomorrow,tv,"Documentary, Family",2014,tt4195814,6.5,72
 Cutie Cubies,tv,"Adventure, Animation, Sci-Fi",2017,tt7520728,6.7,19
@@ -7718,6 +7767,7 @@ Murder in the Heartland,tv,"Crime, Documentary",2017,tt7656606,7.5,566
 The Disappearance,tv,"Crime, Drama, Mystery",2018,tt9399222,7.0,1391
 American Nightmare,tv,"Crime, Documentary, Drama",2019,tt9499884,7.4,102
 The Night That Didn't End,tv,Crime,2018,tt9358600,7.0,75
+,tv,Documentary,1998,Não informado,7.699999999999999,162
 Bad Chad Customs,tv,Reality-TV,2019,tt9397406,7.0,218
 Mixels,tv,"Adventure, Animation, Comedy",2014,tt3648886,4.0,499
 Deadly Secrets,tv,Crime,2019,tt9416960,7.2,74
@@ -7787,6 +7837,7 @@ Andere Eltern,tv,Comedy,2019,tt10095376,6.9,211
 Strange Evidence,tv,"Documentary, Mystery",2017,tt7538868,4.6,407
 The Bay,tv,"Crime, Drama, Mystery",2019,tt8425404,7.2,13306
 Buddy vs. Duff,tv,"Game-Show, Reality-TV",2019,tt9625944,5.8,351
+,tv,Reality,2019,Não informado,6.1,41
 The World Between Us,tv,"Crime, Drama",2019,tt10073114,8.8,3085
 Total DramaRama,tv,"Adventure, Animation, Comedy",2018,tt8526988,4.0,1118
 Intelligence,tv,Comedy,2020,tt9454736,6.3,4793
@@ -7804,6 +7855,7 @@ One of a Kind,tv,Documentary,2019,tt10981322,7.9,58
 Savage Builds,tv,Documentary,2019,tt10233836,8.0,390
 Portals to Hell,tv,Reality-TV,2019,tt9812514,6.3,1204
 Married with Secrets,tv,"Crime, Documentary",2016,tt6012704,7.1,275
+,tv,"Mystery, Documentary",2019,Não informado,6.5,1203
 Mexico Life,tv,Reality-TV,2016,tt5533398,7.0,54
 Heartbreak Island,tv,Reality-TV,2018,tt10726456,6.4,76
 Otros Pecados,tv,Drama,2019,tt10673230,7.2,80
@@ -7815,11 +7867,13 @@ On Tour with Asperger's Are Us,tv,"Comedy, Documentary",2019,tt9765222,7.1,118
 Idris Elba: Fighter,tv,Reality-TV,2017,tt8220330,6.8,101
 Batwoman,tv,"Action, Adventure, Crime",2019,tt8712204,3.6,47457
 Usterka,tv,Reality-TV,2002,tt1990906,6.0,7
+,tv,"Reality, Documentary",2012,Não informado,6.1,41
 Restoring Galveston,tv,Reality-TV,2019,tt10038720,7.7,231
 44 Cats,tv,"Adventure, Animation, Comedy",2018,tt9699148,5.8,370
 Duff Takes The Cake,tv,Reality-TV,2019,tt10202424,7.2,34
 The Redemption Project with Van Jones,tv,"News, Talk-Show",2019,tt7816792,8.1,69
 Primal,tv,"Action, Adventure, Animation",2019,tt10332508,8.6,24875
+,tv,Não informado,2019,Não informado,7.0,16
 Nancy Drew,tv,"Drama, Horror, Mystery",2019,tt10313176,6.7,11484
 The Aquarium,tv,Reality-TV,2019,tt9780390,8.3,247
 The Champions,tv,"Animation, Comedy, Short",2018,tt9239994,8.5,314
@@ -7835,6 +7889,7 @@ Lone Star Justice,tv,Documentary,2019,tt10555674,7.7,36
 Fish or Die,tv,Reality-TV,2019,tt10228276,7.2,68
 Super Monsters Monster Pets,tv,Animation,2019,tt10370958,6.2,53
 Truth Behind the Moon Landing,tv,Documentary,2019,tt10404822,4.2,205
+,tv,Sci-Fi & Fantasy,2019,Não informado,6.7,1354
 Dune: Prophecy,tv,"Action, Adventure, Drama",2024,tt10466872,7.3,55543
 Guardians of the Glades,tv,Reality-TV,2019,tt10305410,6.8,187
 Underworld Trilogy: The Prisoner,tv,"Crime, Drama",2010,tt1645200,7.0,206
@@ -7850,6 +7905,7 @@ Still A Mystery,tv,Crime,2018,tt8241514,6.6,155
 David Makes Man,tv,Drama,2019,tt8905948,7.5,684
 People Magazine Investigates: Cults,tv,Documentary,2018,tt8461242,7.5,225
 Ghosts of Morgan City,tv,"Documentary, Sci-Fi",2019,tt10686866,5.9,227
+,tv,Comedy,2019,Não informado,6.5,2246
 Seven Worlds One Planet,tv,Documentary,2019,tt9805708,9.3,6355
 Gremlins: Secrets of the Mogwai,tv,"Adventure, Animation, Comedy",2022,tt9860690,6.9,970
 Avenue 5,tv,"Comedy, Sci-Fi",2020,tt10234362,6.7,24035
@@ -7884,6 +7940,7 @@ Por la Máscara,tv,"Action, Comedy, Drama",2018,tt9189314,7.6,26
 Prodigal Son,tv,"Crime, Drama, Mystery",2019,tt10327354,7.7,24982
 Joint Venture,tv,"Crime, Drama",2019,tt10756754,7.9,691
 Undercover Billionaire,tv,Reality-TV,2019,tt8417266,7.6,876
+,tv,Crime,2013,Não informado,7.15,1398
 Fastest Cars in the Dirty South,tv,"Documentary, Sport",2019,tt10594194,6.0,60
 The Shadows of Death,tv,Crime,2019,tt10486740,7.2,34
 Ghost Brothers: Haunted Houseguests,tv,Reality-TV,2019,tt10687236,6.8,205
@@ -7930,7 +7987,9 @@ Most Terrifying Places,tv,"History, Horror",2019,tt10738670,6.8,59
 Steven Universe Future,tv,"Action, Adventure, Animation",2019,tt13714610,7.7,5890
 River of No Return,tv,Reality-TV,2019,tt11102274,8.2,54
 My Horror Story,tv,Horror,2019,tt11006986,6.7,100
+,tv,Talk,2019,Não informado,6.7,1354
 Love Me,tv,"Comedy, Drama, Romance",2019,tt9325320,7.8,4050
+,tv,"Documentary, Reality",2019,Não informado,7.1,162
 Fixer to Fabulous,tv,Reality-TV,2019,tt12226680,8.1,561
 King of the Skies,tv,"Action, Adventure, Biography",2020,tt10230370,7.7,646
 Ant Anstead Master Mechanic,tv,"Documentary, Reality-TV",2019,tt11122204,7.2,120
@@ -7962,6 +8021,7 @@ The Whole Truth with Sunny Hostin,tv,"Crime, Documentary, Reality",2019,tt101838
 Broken Trust,tv,Crime,2018,tt8684752,6.9,58
 La Grande Maison Tokyo,tv,"Drama, Family",2019,tt10845290,7.8,1320
 We're Here,tv,Reality-TV,2020,tt11285856,8.2,3368
+,tv,Não informado,2019,Não informado,7.0,16
 Santa's Baking Blizzard,tv,Game-Show,2019,tt11431786,6.4,25
 Murder Castle,tv,Drama,2017,tt7020712,6.4,122
 Holiday Wars,tv,Reality-TV,2018,tt9335658,5.9,203
@@ -7979,9 +8039,11 @@ Unexplained and Unexplored,tv,Reality-TV,2019,tt11327454,4.1,147
 Let's Go Luna!,tv,"Animation, Comedy, Family",2018,tt7200884,7.6,234
 Pandemic: How to Prevent an Outbreak,tv,Documentary,2020,tt11497904,6.4,2888
 Cobra,tv,"Drama, Thriller",2020,tt10062652,6.5,4937
+,tv,"Sci-Fi & Fantasy, Mystery",2019,Não informado,6.7,1354
 Des,tv,"Biography, Crime, Drama",2020,tt11656892,7.6,22587
 The Adventures of Paddington,tv,"Adventure, Animation, Comedy",2019,tt7772600,8.2,771
 La Unidad,tv,"Action, Adventure, Crime",2020,tt10230502,7.4,2011
+,tv,Documentary,2015,Não informado,7.1,162
 My Home My Destiny,tv,Drama,2019,tt11100380,5.9,3146
 Gui e Estopa,tv,"Animation, Comedy, Family",2004,tt11762462,8.3,87
 The Trial of Christine Keeler,tv,"Drama, History",2019,tt8001036,6.9,2192
@@ -7995,11 +8057,14 @@ Salvage Hunters: The Restorers,tv,Reality-TV,2018,tt13405620,7.9,141
 Ghost Loop,tv,Reality-TV,2019,tt11497386,3.6,318
 Mannen som falt,tv,"Crime, Documentary",2020,tt11610378,7.4,86
 Wheeler Dealers Dream Car,tv,Reality-TV,2020,tt21214460,7.7,53
+,tv,Não informado,2012,Não informado,7.0,16
 Auga Seca,tv,"Crime, Drama",2020,tt10495654,6.5,482
+,tv,"Kids, Family",2009,Não informado,6.7,1354
 An Incurable Case of Love,tv,"Comedy, Romance",2020,tt11290750,7.4,2060
 Care Bears: Unlock the Magic,tv,"Adventure, Animation, Comedy",2019,tt8975856,6.6,131
 Richard Hammond's Big!,tv,"Adventure, Documentary",2020,tt10271544,8.0,901
 Love Monster,tv,"Animation, Family, Short",2020,tt11437474,6.5,71
+,tv,Talk,2020,Não informado,6.7,1354
 Supertruckers,tv,Documentary,2015,tt10058722,6.7,16
 Villainous,tv,"Animation, Comedy, Family",2017,tt7049818,7.5,1053
 Aaron Hernandez: An ID Murder Mystery,tv,Crime,2020,tt11778034,7.5,85
@@ -8009,11 +8074,13 @@ Restoration Wild,tv,Não informado,2015,tt4312416,7.8,24
 1000-lb Sisters,tv,Reality-TV,2020,tt11617414,6.1,1530
 Homicide City: Charlotte,tv,Reality-TV,2019,tt11629570,7.0,59
 Meet the Orangutans,tv,Documentary,2014,tt4719786,8.1,14
+,tv,Documentary,2020,Não informado,6.9,162
 Aldri voksen,tv,"Comedy, Drama",2020,tt11381236,6.8,277
 Stranger Among Us,tv,Crime,2020,tt11818408,7.0,45
 #Luimelia,tv,"Drama, Romance, Short",2020,tt11396318,8.0,294
 The Interrogator,tv,"Crime, Mystery, Reality-TV",2019,tt11018358,8.0,88
 Save My Skin,tv,Reality-TV,2019,tt11861362,7.2,161
+,tv,Reality,2020,Não informado,7.4,41
 Deadly Recall,tv,Crime,2019,tt9816090,7.9,145
 2111,tv,Documentary,2012,tt3519922,6.4,6
 Walker,tv,"Action, Crime, Drama",2021,tt11006642,6.2,16074
@@ -8054,6 +8121,7 @@ World of Weapons,tv,History,2020,tt12430360,7.6,20
 Veneno,tv,"Biography, Drama",2020,tt10383046,8.6,5049
 The Not Too Late Show with Elmo,tv,"Comedy, Family, Music",2020,tt11031770,7.4,164
 A Tiny Audience,tv,"Music, Talk-Show",2019,tt12622562,7.5,21
+,tv,Não informado,2020,Não informado,6.5,16
 Boy Girl Dog Cat Mouse Cheese,tv,"Animation, Comedy, Family",2019,tt11351236,6.2,216
 Bitchin' Boot Camp,tv,Reality-TV,2020,tt11188464,7.6,8
 Lottie Dottie Chicken,tv,"Animation, Family, Music",2006,tt6925620,7.9,9
@@ -8083,6 +8151,7 @@ Chopped Sweets,tv,Reality-TV,2019,tt12495894,6.4,75
 The Head,tv,"Drama, Horror, Mystery",2020,tt8290362,6.8,9370
 Bargain Mansions,tv,Reality-TV,2017,tt5763680,5.3,413
 I May Destroy You,tv,Drama,2020,tt11204260,8.1,27362
+,tv,"Documentary, Reality, Crime",2019,Não informado,7.1,162
 In the Cold Dark Night,tv,Documentary,2020,tt10039642,7.1,505
 Combat Dealers,tv,Documentary,2014,tt3730294,7.8,161
 We Got This,tv,"Comedy, Crime, Mystery",2020,tt12177808,6.9,451
@@ -8096,13 +8165,16 @@ Den stora hälsoresan - från soffpropp till superkropp,tv,Reality-TV,2020,tt122
 Vintage Voltage,tv,Reality-TV,2020,tt12232278,7.2,57
 Bare Elvira,tv,Documentary,2020,tt13079814,6.9,162
 Chasing Life,tv,Documentary,2019,tt10086512,7.4,65
+,tv,"Documentary, Crime",2020,Não informado,6.9,162
 My 600-lb Life: Where Are They Now?,tv,"Documentary, Reality-TV",2015,tt9747398,6.7,239
 Mysteries of the Deep,tv,Documentary,2020,tt12059242,6.8,310
+,tv,Animation,2020,Não informado,7.0,515
 Storming Area 51,tv,Documentary,2019,tt22029070,7.1,162
 Coyote Peterson: Brave the Wild,tv,"Adventure, Documentary, Reality-TV",2020,tt11846606,7.8,59
 The Dog House,tv,Documentary,2019,tt11076876,8.7,532
 Dead Reckoning,tv,"Crime, Documentary",2020,tt6351522,6.4,44
-Forbrydelser der rystede Danmark,tv,"Crime, Documentary",2019,tt27237365,7.1,1394
+,tv,Não informado,2013,Não informado,7.0,16
+Forbrydelser der rystede Danmark,tv,"Crime, Documentary",2019,tt27237365,7.15,1398
 Big Time Bake,tv,Reality-TV,2020,tt12529558,5.9,14
 Fire Masters,tv,Reality-TV,2019,tt10036682,6.0,82
 At Home,tv,"Comedy, Drama",2020,tt12151186,6.1,104
@@ -8130,6 +8202,7 @@ Never Say Goodbye,tv,"Crime, Documentary",2019,tt10474914,7.6,36
 1990s: The Deadliest Decade,tv,Crime,2018,tt9250894,7.3,221
 W domu,tv,"Drama, Short",2020,tt12611994,5.7,41
 Dino Hunters,tv,Documentary,2020,tt12605558,7.1,203
+,tv,Drama,2019,Não informado,6.7,2625
 Numberblocks,tv,"Adventure, Animation, Family",2017,tt7978538,8.5,521
 A World of Calm,tv,Documentary,2020,tt12777936,8.2,595
 Who Killed Jeffrey Epstein?,tv,Documentary,2020,tt11859586,6.4,153
@@ -8151,6 +8224,7 @@ My Family's Deadly Secret,tv,"Crime, Drama",2020,tt12643882,6.8,28
 Highway to Hell,tv,Crime,2019,tt12121588,6.0,13
 Symon's Dinners Cooking Out,tv,Reality-TV,2020,tt12455326,8.4,60
 Devil Among Us,tv,Documentary,2020,tt12845004,7.6,54
+,tv,Drama,2020,Não informado,6.5,2625
 The Osbournes Want to Believe,tv,Mystery,2020,tt13052830,6.6,709
 YOLO,tv,"Animation, Comedy, Fantasy",2020,tt12058366,7.3,1451
 Growing Belushi,tv,Reality-TV,2020,tt12809840,6.4,488
@@ -8215,7 +8289,9 @@ The Miramar Murders: The State Vs. Pablo Ibar,tv,Documentary,2020,tt5259834,7.1,
 Suspicious Minds,tv,"Crime, Documentary",2020,tt13332656,6.7,40
 Alice & Lewis,tv,"Animation, Family, Fantasy",2021,tt17044460,8.2,29
 Flatbush Misdemeanors,tv,Comedy,2021,tt13266618,6.8,940
+,tv,"Documentary, Drama, War & Politics",2019,Não informado,7.1,162
 Agent Binky: Pets of the Universe,tv,"Adventure, Animation, Family",2019,tt11068810,6.2,57
+,tv,"Documentary, Crime",2020,Não informado,6.9,162
 The White Lotus,tv,"Comedy, Drama",2021,tt13406094,8.0,278094
 Street Outlaws: Fastest in America,tv,Reality-TV,2020,tt12251662,6.9,73
 Tsukimichi: Moonlit Fantasy,tv,"Action, Adventure, Animation",2021,tt13311344,7.6,4424
@@ -8253,6 +8329,7 @@ The Republic of Sarah,tv,Drama,2021,tt11815244,6.0,967
 Kung Fu,tv,"Action, Adventure, Drama",2021,tt7475590,5.7,5272
 Rocket Around the Xmas Tree,tv,Game-Show,2020,tt13492518,8.1,25
 Juleølkalenderen,tv,Talk-Show,2018,tt11610124,7.0,13
+,tv,"Animation, Sci-Fi & Fantasy",2014,Não informado,6.6,515
 House of Ho,tv,Reality-TV,2020,tt12355298,5.9,400
 Robert Durst: An ID Murder Mystery,tv,Crime,2019,tt9726390,6.6,65
 Chainsaw Man,tv,"Action, Animation, Comedy",2022,tt13616990,8.3,76013
@@ -8263,6 +8340,9 @@ Painting with John,tv,"Comedy, Reality-TV",2021,tt13670374,7.7,929
 90 Day Diaries,tv,Reality-TV,2021,tt13787288,4.8,147
 Fixer Upper: Welcome Home,tv,Reality-TV,2021,tt13957038,7.5,363
 Un sueño real,tv,Documentary,2020,tt13618230,6.6,19
+,tv,"Documentary, Reality",2015,Não informado,7.1,162
+,tv,Reality,2004,Não informado,7.35,41
+,tv,"Reality, Documentary",2019,Não informado,6.1,41
 Bride & Prejudice,tv,Reality-TV,2016,tt6740426,5.4,17
 Mare of Easttown,tv,"Crime, Drama, Mystery",2021,tt10155688,8.4,205285
 Nieobecni,tv,Crime,2020,tt12940428,6.4,139
@@ -8276,15 +8356,18 @@ Atlanta Justice,tv,Crime,2020,tt13540198,6.8,62
 Magnolia Table with Joanna Gaines,tv,Reality-TV,2021,tt13793360,6.2,237
 Irma Vep,tv,"Comedy, Drama",2022,tt13649314,6.8,7011
 Bump,tv,"Comedy, Drama, Romance",2021,tt13751472,7.6,2705
+,tv,Comedy,2009,Não informado,6.5,2246
 Mystery at Blind Frog Ranch,tv,Reality-TV,2021,tt13634306,6.2,1060
 Dino Ranch,tv,"Adventure, Animation, Comedy",2021,tt13858416,5.2,341
 The Baby,tv,"Comedy, Horror, Mystery",2022,tt12879632,6.3,3988
 Fear Thy Roommate,tv,Crime,2020,tt14078354,7.9,114
+,tv,"Talk, Reality, Documentary",2021,Não informado,6.7,1354
 First Time Fixer,tv,Reality-TV,2021,tt14214530,6.6,40
 Worst Cooks in America: Dirty Dishes,tv,Talk-Show,2021,tt13557674,5.3,18
 Three Men Four Wheels,tv,Documentary,2020,tt13750872,5.0,30
 BattleBots: Bounty Hunters,tv,Reality-TV,2021,tt13606252,8.0,129
 Onision: In Real Life,tv,Documentary,2021,tt13832946,5.6,423
+,tv,"Reality, Documentary",2020,Não informado,7.4,41
 The Lady and the Dale,tv,"Biography, Crime, Documentary",2021,tt12837188,6.9,1495
 Frozen Planet II,tv,Documentary,2022,tt9805678,9.0,2423
 Planet Earth III,tv,Documentary,2023,tt9805674,9.2,4246
@@ -8309,6 +8392,7 @@ Doomsday,tv,"Drama, Horror, Thriller",2016,tt4733262,5.0,121
 Belle Collective,tv,Reality-TV,2020,tt13606226,5.9,136
 Ghost Adventures: Top 10,tv,"Documentary, Horror, Reality-TV",2021,tt21216012,5.5,59
 Super Dad,tv,Reality-TV,2021,tt12259534,9.2,34
+,tv,Reality,2014,Não informado,6.1,41
 Engine Masters,tv,Reality-TV,2015,tt8205168,8.4,82
 Fast Foodies,tv,Reality-TV,2021,tt13476730,6.7,355
 Flipping 101,tv,Reality-TV,2020,tt10692686,6.5,247
@@ -8316,6 +8400,7 @@ Witness,tv,Documentary,2011,tt1947921,6.9,9
 We Baby Bears,tv,"Adventure, Animation, Comedy",2022,tt13303478,5.7,769
 Kitchen Crash,tv,Reality-TV,2021,tt14100986,5.1,15
 Ty Breaker,tv,Reality-TV,2020,tt13205720,6.9,51
+,tv,Drama,2021,Não informado,6.5,2625
 Bobby and Giada in Italy,tv,Documentary,2021,tt13613562,7.9,129
 Sticker Shock,tv,Reality-TV,2018,tt8332034,8.1,37
 Home Town: Ben's Workshop,tv,Reality-TV,2021,tt13613526,8.3,35
@@ -8336,9 +8421,12 @@ Exterminate All the Brutes,tv,"Documentary, History",2021,tt8396314,7.5,3165
 Ghost Stalkers,tv,Reality-TV,2014,tt4131324,5.0,424
 Rehab Addict Rescue,tv,Reality-TV,2021,tt13438336,7.3,73
 Vitals,tv,Documentary,2021,tt13841776,7.8,130
+,tv,Reality,2021,Não informado,7.4,41
 Murder 24/7,tv,"Crime, Documentary",2020,tt11833446,8.1,220
+,tv,Documentary,2021,Não informado,6.9,162
 Fatal Encounters,tv,"Crime, Documentary",2012,tt2168761,7.3,185
 Cry Wolfe,tv,"Crime, Documentary, Drama",2014,tt3831402,3.1,413
+,tv,Não informado,2021,Não informado,6.5,16
 Trans Am,tv,Documentary,2018,tt8887828,7.4,60
 Tod von Freunden,tv,"Drama, Mystery",2021,tt14025588,6.0,348
 Allen v. Farrow,tv,"Biography, Crime, Documentary",2021,tt13990468,6.7,8091
@@ -8356,11 +8444,13 @@ Ancient Unexplained Files,tv,History,2021,tt14151612,6.8,56
 Professional Secrecy,tv,Drama,2021,tt13495014,7.0,77
 Stanley Tucci: Searching for Italy,tv,"Adventure, Documentary",2021,tt11852724,8.6,3560
 The Crime of the Century,tv,"Crime, Documentary",2021,tt14055432,8.1,4694
+,tv,"Documentary, Crime",2018,Não informado,7.1,162
 Van Go,tv,Reality-TV,2021,tt14022916,7.8,55
 The Inside Story,tv,"Documentary, Sport",2021,tt14182328,8.6,165
 Aliens in Alaska,tv,Documentary,2021,tt14153438,5.6,192
 2 Døgn,tv,Action,2021,tt12982112,6.6,235
 Otdel Izdirvane,tv,Crime,2021,tt14025322,8.0,208
+,tv,Comedy,2021,Não informado,6.3,2246
 Design Star: Next Gen,tv,Reality-TV,2021,tt13493210,6.9,19
 Mind for Design,tv,Reality-TV,2021,tt14546376,7.2,20
 Q: Into the Storm,tv,"Documentary, Mystery",2021,tt14215442,7.5,6802
@@ -8371,6 +8461,7 @@ HGTV House Party,tv,Talk-Show,2021,tt13820202,5.6,58
 Home Again with the Fords,tv,Reality-TV,2021,tt14070666,6.8,85
 Robson Green's Australian Adventure,tv,Documentary,2015,tt10196566,7.6,18
 Unseamly: The Investigation of Peter Nygård,tv,"Crime, Documentary",2021,tt14433222,6.9,121
+,tv,Não informado,2015,Não informado,7.0,16
 Costa del Kongsvik,tv,Comedy,2014,tt6214784,6.6,61
 Where Murder Lies,tv,Crime,2021,tt14611902,7.2,174
 The Courage to Run with Chip Gaines and Gabe Grunewald,tv,Documentary,2021,tt14411796,7.8,15
@@ -8379,7 +8470,9 @@ Kullannuput,tv,Comedy,2021,tt13893390,5.8,114
 100% Wolf: Legend of the Moonstone,tv,"Animation, Fantasy",2020,tt13814356,5.3,205
 The Killer Closer,tv,Crime,2018,tt8787746,6.4,45
 Unsellable Houses,tv,Reality-TV,2019,tt12007528,6.7,541
+,tv,"Documentary, Crime",2019,Não informado,7.1,162
 Lykkelig gift ved første blikk,tv,Reality-TV,2019,tt11355420,6.8,89
+,tv,"Documentary, Crime, Reality",2021,Não informado,6.9,162
 Välkommen till Köping,tv,Reality-TV,2020,tt11738930,8.0,49
 The Blended Bunch,tv,Reality-TV,2021,tt14175374,6.1,65
 Say Yes to the Dress Australia,tv,Reality-TV,2016,tt5899470,9.2,8
@@ -8422,6 +8515,7 @@ Star vs. Food,tv,Reality-TV,2021,tt14443176,1.8,130
 Extreme Sisters,tv,Reality-TV,2021,tt14485112,5.0,145
 Para - We Are King,tv,Drama,2021,tt12539222,6.7,424
 Curb Appeal: The Block,tv,Reality-TV,2010,tt1572499,7.6,58
+,tv,"Reality, Documentary",2021,Não informado,7.4,41
 Trinity of Shadows,tv,Thriller,2021,tt14845204,6.3,124
 The Big Shot with Bethenny,tv,"Game-Show, Reality-TV",2021,tt11987400,6.3,226
 Winning Time: The Rise of the Lakers Dynasty,tv,"Biography, Drama, Sport",2022,tt10244600,8.3,30926
@@ -8446,6 +8540,7 @@ Louisiana Law,tv,Reality-TV,2021,tt14619494,7.6,137
 The Cleaning Lady,tv,"Crime, Drama, Thriller",2022,tt11188682,7.0,12003
 Three Families,tv,"Crime, Drama, Thriller",2021,tt14574156,7.6,779
 Crime Scene Kitchen,tv,Reality-TV,2021,tt14409846,7.6,804
+,tv,"Drama, Documentary",2015,Não informado,6.7,2625
 The Pact,tv,"Drama, Mystery, Thriller",2021,tt13107070,6.9,4335
 Naomi,tv,"Action, Adventure, Drama",2022,tt13624900,4.9,5898
 The Bond,tv,Documentary,2022,tt13159336,8.7,25
@@ -8471,6 +8566,8 @@ Behawiorysta,tv,Crime,2022,tt14721670,6.3,725
 Demolition Down Under,tv,"Documentary, Reality-TV",2020,tt11657452,6.8,10
 The Sugar Captains,tv,"Adventure, Comedy, Drama",2021,tt12438242,6.7,54
 Causa Própria,tv,"Crime, Drama",2022,tt14599256,7.8,796
+,tv,Crime,2016,Não informado,7.15,1398
+,tv,Kids,2020,Não informado,6.7,1354
 "You, Me & My Ex",tv,Reality-TV,2021,tt14812498,6.2,111
 Tom and Jerry in New York,tv,"Adventure, Animation, Comedy",2021,tt14833766,6.8,453
 Car Fix,tv,Reality-TV,2012,tt2762564,6.4,148
@@ -8511,6 +8608,7 @@ Family Dinner,tv,Reality-TV,2021,tt12259216,7.9,77
 The Portal,tv,"Adventure, Crime, Drama",2021,tt13526628,8.3,363
 The Cabin Chronicles,tv,Documentary,2021,tt21426914,8.0,48
 The Sympathizer,tv,"Comedy, Drama, History",2024,tt14404618,6.8,8680
+,tv,"Documentary, Reality",2018,Não informado,7.1,162
 Love Spells,tv,"Comedy, Drama, Romance",2021,tt10665206,6.4,96
 Next Level Chef,tv,Reality-TV,2022,tt14669850,7.0,1696
 Hunting Atlantis,tv,"Documentary, Fantasy",2021,tt14167114,5.8,147
@@ -8520,6 +8618,7 @@ Naked and Afraid of Love,tv,"Reality-TV, Romance",2021,tt14690094,3.7,585
 Self Employed,tv,Reality-TV,2021,tt13787460,8.4,26
 For the Love of Kitchens,tv,Reality-TV,2021,tt15336554,8.5,212
 Ranch to Table,tv,Reality,2021,tt14546418,8.3,42
+,tv,"Documentary, Family",2017,Não informado,7.1,162
 Battle of the Brothers,tv,Game-Show,2021,tt15226582,7.1,47
 Car Pound Cops: Give Me My Car Back!,tv,Documentary,2021,tt15254122,6.1,12
 Sweet Life: Los Angeles,tv,Reality-TV,2021,tt14675328,5.0,293
@@ -8555,6 +8654,7 @@ Motor MythBusters,tv,Mystery,2021,tt14251152,6.5,145
 Legacy,tv,"Drama, History, War",2022,tt21073486,8.2,83
 Fever Pitch: The Rise of the Premier League,tv,"Documentary, History, Sport",2021,tt15262600,7.6,908
 Curb Appeal Xtreme,tv,Reality-TV,2021,tt15232678,6.1,47
+,tv,Reality,2022,Não informado,7.4,41
 Curse of the Chippendales,tv,"Crime, Documentary",2021,tt14679942,7.2,720
 The Rope,tv,"Adventure, Drama, Fantasy",2021,tt15071814,5.4,615
 Sort Of,tv,"Comedy, Drama",2021,tt15221950,7.3,2557
@@ -8578,10 +8678,12 @@ Mary Makes It Easy,tv,Reality-TV,2021,tt18070452,7.0,85
 Outgrown,tv,Reality-TV,2021,tt15471348,8.0,52
 Ragdoll,tv,"Crime, Drama, Mystery",2021,tt14129418,5.8,2550
 Houses with History,tv,Reality-TV,2021,tt15522186,8.5,173
+,tv,Crime,2021,Não informado,6.8,1398
 The Idol,tv,"Drama, Music",2023,tt14954666,4.4,114389
 The Haunted Museum,tv,Horror,2021,tt14708338,5.7,502
 Finding Andrea,tv,"Crime, Documentary, Mystery",2021,tt15493296,5.7,226
 Oh Hell,tv,"Comedy, Drama",2022,tt17593100,6.4,457
+,tv,Não informado,2019,Não informado,7.0,16
 The Mating Game,tv,Documentary,2021,tt15762026,8.6,505
 Rehab Addict: Detroit,tv,Reality-TV,2015,tt12810674,7.0,13
 The Nate & Jeremiah Home Project,tv,Documentary,2021,tt14873528,7.5,109
@@ -8591,7 +8693,7 @@ Nissene i bingen,tv,Comedy,2021,tt16294840,7.5,495
 Dragons: The Nine Realms,tv,"Action, Adventure, Animation",2021,tt15758116,5.3,1093
 Blackout,tv,"Drama, Thriller",2021,tt11470588,6.3,1484
 Presto! School of Magic,tv,"Action, Animation, Comedy",2021,tt14872744,8.1,18
-An American Story,tv,Reality-TV,2021,tt15447994,6.9,89
+An American Story,tv,Reality-TV,2021,tt15447994,6.85,89
 Street Outlaws: No Prep Kings Team Attack,tv,Reality,2021,tt32605558,7.4,41
 Eli Roth Presents: A Ghost Ruined My Life,tv,Horror,2021,tt15676696,5.6,253
 Kljun,tv,"Crime, Drama, Mystery",2021,tt15346794,7.0,1039
@@ -8604,6 +8706,7 @@ The War That Changed Us,tv,"Documentary, War",2014,tt3327638,7.3,39
 True Nightmares: Tales of Terror,tv,"Documentary, Horror",2021,tt15712378,7.0,29
 The Freak Brothers,tv,"Adventure, Animation, Comedy",2020,tt10627334,6.0,1062
 The Truth of Dolores Vázquez,tv,"Crime, Documentary",2021,tt14961752,7.4,479
+,tv,"Documentary, Reality",2021,Não informado,6.9,162
 Down the Road,tv,Reality-TV,2022,tt17048048,6.8,12
 Rãmâi cu mine,tv,"Drama, Romance",2013,tt3269748,7.5,299
 Diana,tv,"Biography, Documentary",2021,tt15866034,7.2,67
@@ -8616,6 +8719,7 @@ The Great Soul Food Cook-Off,tv,Game-Show,2021,tt15728230,7.1,191
 Largados e Pelados Brasil,tv,Reality-TV,2021,tt16174892,7.7,78
 "Love, Honor, Betray",tv,Documentary,2021,tt15599274,7.2,62
 Mundo CurioZoo,tv,Family,2021,tt16473764,7.7,12
+,tv,Animation,2021,Não informado,7.0,515
 The Tower,tv,"Crime, Drama, Mystery",2021,tt14364876,7.0,7971
 Outrageous 911,tv,Reality-TV,2013,tt3904332,7.5,38
 The Beachbuds,tv,"Adventure, Animation, Comedy",2021,tt9741574,8.1,32
@@ -8629,19 +8733,25 @@ The Cut Brazil,tv,Reality-TV,2021,tt16366810,6.1,19
 Holiday Baking Championship Gingerbread Showdown,tv,Game-Show,2021,tt16234372,6.8,47
 Addicted to Marriage,tv,Reality-TV,2021,tt15772982,4.7,30
 From the Source,tv,Documentary,2021,tt24763366,8.6,23
+,tv,Documentary,2021,Não informado,6.9,162
 A Very British Scandal,tv,"Drama, History",2021,tt14220870,7.0,7614
 The Murders at Starved Rock,tv,"Crime, Documentary, Mystery",2021,tt8045494,6.6,1551
+,tv,"Comedy, Drama",2021,Não informado,6.3,2246
 Drag Race Philippines,tv,"Game-Show, Reality-TV",2022,tt15245094,8.1,2451
 Build It Bigger: Rebuilding Greensburg,tv,Documentary,2008,tt1332147,7.2,162
 Tish Tash,tv,"Animation, Family",2020,tt22332184,7.7,37
 Hooptie World Championship,tv,Reality-TV,2021,tt15095894,8.3,11
 Fábrica de Casamentos,tv,Reality-TV,2017,tt8109884,6.1,11
+,tv,Reality,2016,Não informado,6.1,41
 The Baby Killer Conspiracy,tv,Documentary,2021,tt16161542,6.4,55
 Um dia de Chef,tv,Reality-TV,2018,tt7408758,6.8,89
 Tempero na mochila,tv,Documentary,2016,tt6305540,8.0,6
+,tv,"Animation, Kids",2021,Não informado,7.0,515
 Diagnose Me,tv,Reality-TV,2015,tt4763240,7.4,41
 NOOD,tv,Drama,2021,tt16376044,7.2,61
+,tv,"Drama, Crime",2021,Não informado,6.5,2625
 Room Crashers,tv,Reality-TV,2011,tt1939326,7.6,19
+,tv,"Family, Talk, Reality",2021,Não informado,6.3,150
 The Girl Before,tv,"Drama, Mystery, Romance",2021,tt5232622,6.6,6016
 Queen Stars,tv,"Game-Show, Reality-TV",2022,tt19063056,6.4,108
 Johnny vs Amber,tv,Documentary,2021,tt18094728,4.3,1262
@@ -8652,6 +8762,7 @@ Ken and Barbie Killers: The Lost Murder Tapes,tv,"Crime, Documentary",2021,tt167
 Throwdown with Michael Symon,tv,Reality-TV,2021,tt15765846,7.5,18
 Love During Lockup,tv,Reality,2022,tt20101436,7.2,68
 Chillin Island,tv,"Comedy, Reality-TV",2021,tt16433356,5.6,260
+,tv,"Documentary, Reality",2014,Não informado,7.1,162
 Home Sweet Homicide,tv,Crime,2019,tt11143024,6.6,36
 Holmes Family Rescue,tv,Reality-TV,2021,tt10902108,8.0,114
 The Silence,tv,"Crime, Drama, Mystery",2021,tt15229966,7.6,1176
@@ -8672,11 +8783,13 @@ Tough Love with Hilary Farr,tv,Reality-TV,2021,tt14117438,8.7,719
 Mini Beat Power Rockers,tv,"Animation, Family, Music",2017,tt7478542,6.5,105
 Alex Vs. America,tv,Game-Show,2022,tt16280282,7.3,290
 Guy's Chance of a Lifetime,tv,Game-Show,2022,tt16750516,5.5,81
+,tv,"Animation, Comedy",2018,Não informado,6.6,515
 I Am Shauna Rae,tv,Reality-TV,2022,tt16381894,6.6,356
 The Kings of Napa,tv,Drama,2022,tt13205670,4.5,383
 This Is Going to Hurt,tv,"Biography, Comedy, Drama",2022,tt8681148,8.4,20495
 The Hillside Strangler,tv,"Crime, Documentary",2021,tt16311226,6.7,217
 Calls from the Inside,tv,Crime,2021,tt16311300,7.6,86
+,tv,"Mystery, Drama",2021,Não informado,6.1,1203
 Ugliest House in America,tv,Reality-TV,2022,tt16738756,7.5,590
 Holiday Hooptie Challenge II,tv,Não informado,2021,tt16281842,6.5,16
 Speak Sis,tv,Talk-Show,2021,tt15475512,4.8,15
@@ -8686,6 +8799,7 @@ Lazy Car Dealer,tv,Reality-TV,2021,tt16979792,8.4,35
 Blippi Wonders,tv,"Animation, Family",2021,tt19315934,4.6,84
 Ladies Who List: Atlanta,tv,Reality-TV,2022,tt16287666,7.1,79
 The Spectacular,tv,"Crime, Drama, Thriller",2021,tt13606512,7.4,724
+,tv,Não informado,2022,Não informado,6.5,16
 The Killer Nanny: Did She Do It?,tv,"Crime, Documentary",2022,tt16988408,6.8,235
 Simply Giada,tv,Reality-TV,2022,tt16369334,8.0,16
 Street Outlaws: Farmtruck and Azn,tv,Reality-TV,2021,tt18225794,6.8,25
@@ -8734,11 +8848,14 @@ Megamind Rules!,tv,"Animation, Comedy, Family",2024,tt18214172,2.1,1193
 Abominable and the Invisible City,tv,"Adventure, Animation, Comedy",2022,tt18214248,6.5,227
 Rich & Shameless,tv,"Crime, Documentary",2022,tt17497942,6.4,261
 David & Annie: After the 90 Days,tv,Reality-TV,2022,tt16375410,7.0,70
+,tv,"Documentary, Crime",2022,Não informado,6.9,162
 Hillsong: A Megachurch Exposed,tv,"Crime, Documentary",2022,tt16304142,6.7,1251
 Wacky Run,tv,"Adventure, Comedy, Reality-TV",2016,tt6523070,6.6,15
+,tv,Mystery,2022,Não informado,6.1,1203
+,tv,"Animation, Kids, Comedy",2022,Não informado,7.0,515
 America's Cutest,tv,Reality-TV,2009,tt1535977,7.1,62
 7 Chances Para,tv,Comedy,2022,tt19514840,8.7,8
-Här bor jag,tv,Reality-TV,2022,tt18329954,6.9,89
+Här bor jag,tv,Reality-TV,2022,tt18329954,6.85,89
 Phoenix Rising,tv,"Crime, Documentary",2022,tt17036612,7.2,3948
 Game Theory with Bomani Jones,tv,Sport,2022,tt15575238,5.8,334
 Million Dollar Wheels,tv,Reality-TV,2022,tt17676766,4.6,204
@@ -8763,11 +8880,13 @@ The Resort,tv,"Comedy, Mystery, Thriller",2022,tt11897688,7.4,13603
 Vlad & Niki,tv,Comedy,2021,tt27236398,2.5,57
 Death on the Beach,tv,Documentary,2006,tt2389124,7.2,162
 Grenseløst forelsket,tv,Reality-TV,2022,tt20190170,8.0,37
+,tv,"Crime, Action & Adventure",2021,Não informado,6.8,1398
 Who's Talking to Chris Wallace,tv,"News, Talk-Show",2022,tt19316410,5.0,251
 The Invisible Pilot,tv,"Biography, Crime, Documentary",2022,tt15773254,6.3,1146
 Poor Devil,tv,"Animation, Comedy",2023,tt15764846,6.5,614
 The Julia Child Challenge,tv,Reality,2022,tt18263110,7.3,114
 Housing Complex C,tv,"Animation, Fantasy, Horror",2022,tt21826010,6.0,627
+,tv,"Animation, Kids",2019,Não informado,6.6,515
 Caught in the Net,tv,"Crime, Documentary",2022,tt18412630,7.2,146
 I Love That for You,tv,Comedy,2022,tt9319706,7.2,3303
 Smoke & Steel - Secrets of the Modern World,tv,"Documentary, History",2022,tt18235636,6.5,24
@@ -8778,8 +8897,10 @@ Fatal Injections,tv,Drama,2022,tt15295430,5.3,291
 The Craftsman,tv,Reality-TV,2021,tt15423280,8.4,162
 Marry Me Now,tv,Reality-TV,2022,tt18830612,6.0,24
 Body Parts,tv,Reality-TV,2022,tt17157320,8.6,99
+,tv,Drama,2022,Não informado,6.5,2625
 Fixer to Fabulous: Welcome Inn,tv,Reality,2022,tt18968062,8.1,67
 "The Thief, His Wife and the Canoe",tv,"Biography, Crime, Drama",2022,tt14183410,7.2,5229
+,tv,Animation,2019,Não informado,6.6,515
 Queen of Versailles Reigns Again,tv,Reality-TV,2022,tt18278554,5.4,254
 This Cop Life,tv,Documentary,2022,tt19393832,6.1,27
 Supervivencia al desnudo: Latinoamérica,tv,Adventure,2022,tt21967702,6.7,24
@@ -8794,19 +8915,21 @@ Big Restaurant Bet,tv,Reality-TV,2022,tt19315770,6.2,33
 Not So Pretty,tv,Documentary,2022,tt13142526,6.9,476
 Why the Heck Did I Buy This House?,tv,Reality-TV,2022,tt18399598,5.9,138
 The Established Home,tv,Reality-TV,2021,tt18272580,7.8,80
+,tv,Documentary,2022,Não informado,6.9,162
 Three Pines,tv,"Crime, Drama, Mystery",2022,tt15351648,7.2,15686
 Based on a True Story,tv,Comedy,2023,tt19500224,7.2,18845
 Building Roots,tv,"Reality, Documentary",2022,tt18592142,7.8,83
 Bake or Break,tv,Reality-TV,2022,tt19315746,8.6,32
 Moonshiners: American Spirit,tv,"Documentary, Reality-TV",2022,tt19385694,7.5,36
 Mrs. Davis,tv,"Comedy, Drama, Sci-Fi",2023,tt14759574,7.3,14135
-Naprawy nie do naprawy,tv,Reality-TV,2022,tt27349476,6.9,89
+Naprawy nie do naprawy,tv,Reality-TV,2022,tt27349476,6.85,89
 Mash-Up Our Home,tv,Não informado,2022,tt18182214,8.2,26
 The Inmortal,tv,Thriller,2022,tt8712456,7.0,637
 Aussie Gold Hunters: Mine SOS,tv,Documentary,2022,tt20565948,7.4,26
 Becoming Elizabeth,tv,"Biography, Drama, History",2022,tt11444366,7.1,3995
 Menudo: Forever Young,tv,"Biography, Documentary, Music",2022,tt19799468,7.5,244
 Home Town Kickstart,tv,Reality-TV,2022,tt19362096,7.3,55
+,tv,"Documentary, Family, Soap, Reality",2014,Não informado,7.1,162
 Ace of Taste,tv,Reality-TV,2022,tt19385774,6.9,19
 Brave Bunnies,tv,"Animation, Family",2021,tt11660930,7.8,31
 Kite Man: Hell Yeah!,tv,"Action, Adventure, Animation",2024,tt19853518,7.2,2535
@@ -8836,6 +8959,7 @@ A Ponte: The Bridge Brasil,tv,Reality-TV,2022,tt21206624,7.7,43
 Watergate: Blueprint for a Scandal,tv,Documentary,2022,tt20214566,8.2,197
 What Lies Beneath,tv,Reality-TV,2018,tt9202294,7.8,44
 The Man Without a Heart,tv,Documentary,2024,tt19767974,7.5,21
+,tv,"Documentary, Reality",2022,Não informado,6.9,162
 Generation Drag,tv,Reality-TV,2022,tt19848992,4.6,251
 The Book of Queer,tv,Comedy,2022,tt19853592,6.0,733
 Trixie Motel,tv,Reality-TV,2022,tt14721926,7.7,1146
@@ -8864,6 +8988,7 @@ Jessica's Big Little World,tv,Animation,2023,tt14075028,6.4,143
 Gem Hunters Down Under,tv,Documentary,2022,tt22035106,6.1,14
 "Chernobyl: Secrets, Lies, and the Untold Stories",tv,Documentary,2022,tt19868242,6.8,89
 María Marta: El crimen del country,tv,"Biography, Crime, Drama",2022,tt21285810,6.4,356
+,tv,"Animation, Kids, Family",2020,Não informado,7.0,515
 The Great Giveback with Melissa McCarthy and Jenna Perusich,tv,"Family, Reality-TV",2022,tt15977296,8.0,55
 Scavengers Reign,tv,"Adventure, Animation, Drama",2023,tt21056886,8.6,30064
 The Rehearsal,tv,"Comedy, Documentary",2022,tt10802170,8.5,29631
@@ -8888,17 +9013,20 @@ Scott's Own Vacation House,tv,Não informado,2022,tt18748856,8.3,16
 Unprecedented,tv,"Biography, Documentary",2022,tt21194026,6.2,767
 Royal Crackers,tv,"Animation, Comedy",2023,tt26748360,6.3,963
 Iyanu,tv,"Action, Adventure, Animation",2025,tt21248022,6.4,165
-Rooms We Love,tv,Reality-TV,2022,tt23468832,6.9,89
+,tv,"Crime, Documentary",2022,Não informado,6.8,1398
+Rooms We Love,tv,Reality-TV,2022,tt23468832,6.85,89
 Beach Cottage Chronicles,tv,Documentary,2022,tt18213042,7.6,53
 BBQ USA,tv,Reality-TV,2022,tt21098698,7.0,54
 Kung Fu Sock,tv,"Action, Adventure, Animation",2022,tt21791002,8.0,96
 The Lovers,tv,Comedy,2023,tt21282348,7.4,2581
 Turma do Cueio,tv,Animation,2019,tt12454912,5.8,57
+,tv,"Animation, Kids",2022,Não informado,7.0,515
 Steal This House,tv,Reality,2022,tt17220854,7.4,41
 Abdelmassih: Do Milagre ao Crime,tv,Documentary,2022,tt23469832,7.9,11
 Foster's Funtime for Imaginary Friends,tv,"Adventure, Animation, Comedy",2025,tt21315804,8.0,9
 Bobby and Sophie on the Coast,tv,Reality-TV,2022,tt21098666,6.6,54
 Bad Romeo,tv,"Crime, Drama, Family",2022,tt21054088,7.0,327
+,tv,"Animation, Kids",2022,Não informado,7.0,515
 Recipe Lost & Found,tv,Reality-TV,2022,tt21624856,7.8,21
 The Regime,tv,Drama,2024,tt21375036,6.0,14030
 The Art of Vintage,tv,Reality-TV,2022,tt28108044,8.3,8
@@ -8916,6 +9044,7 @@ House of Hammer,tv,"Crime, Documentary",2022,tt14549716,6.0,4195
 Big Bad Budget Battle,tv,Reality,2022,tt21190394,6.1,41
 No Recipe Road Trip with the Try Guys,tv,Documentary,2022,tt15399416,7.6,117
 Viagra: The Little Blue Pill That Changed the World,tv,Documentary,2022,tt21740378,6.4,69
+,tv,Drama,2018,Não informado,6.7,2625
 The Diana Investigations,tv,"Crime, Documentary",2022,tt21627170,6.7,182
 Talking Tom Heroes,tv,"Animation, Comedy",2019,tt12929402,6.6,30
 Who Killed Biggie and Tupac?,tv,"Crime, Documentary, Mystery",2022,tt21801944,6.8,197
@@ -8934,7 +9063,9 @@ Runs Good,tv,Reality-TV,2022,tt21807806,7.6,32
 Clifford the Big Red Dog,tv,"Animation, Family",2019,tt8447844,5.5,217
 Nolly,tv,"Biography, Drama",2023,tt16233462,7.3,2865
 Herkules,tv,Crime,2022,tt15746806,6.6,52
+,tv,Comedy,2022,Não informado,6.3,2246
 Bad Hair Day,tv,Reality-TV,2022,tt21404498,7.5,33
+,tv,"Reality, Action & Adventure",2022,Não informado,7.4,41
 FourWheeler,tv,Reality-TV,2019,tt15765418,7.0,11
 Growing Floret,tv,Documentary,2022,tt12015020,8.6,38
 Dangerous Waters,tv,Reality-TV,2012,tt2297714,6.9,38
@@ -8959,7 +9090,7 @@ Lucky Hank,tv,"Comedy, Drama",2023,tt19785210,6.8,7389
 Naked Attraction Suomi,tv,"Game-Show, Reality-TV",2020,tt13711670,4.2,66
 Johnny vs Amber: The U.S. Trial,tv,Documentary,2022,tt22183824,5.2,587
 Sugar Skulls,tv,"Action, Animation, Comedy",2010,tt31124494,6.6,48496
-The Williams Family Cabin,tv,Reality-TV,2022,tt22769620,6.9,89
+The Williams Family Cabin,tv,Reality-TV,2022,tt22769620,6.85,89
 Border Control: Brazil,tv,"Documentary, Reality-TV",2022,tt27011443,8.4,78
 Fixer Upper: The Castle,tv,Reality-TV,2022,tt22033610,7.1,207
 We Bought a Funeral Home,tv,Reality-TV,2022,tt20221274,8.4,258
@@ -8967,6 +9098,7 @@ Street Outlaws: No Prep Kings: The Great 8,tv,Reality-TV,2022,tt23905242,6.1,14
 Zuzubalândia,tv,"Animation, Family, Fantasy",2018,tt8884110,6.8,73
 Kompani Svan,tv,Reality-TV,2022,tt22474272,7.4,49
 Golden Boy,tv,"Drama, Romance",2022,tt21105088,5.8,6690
+,tv,Talk,2022,Não informado,6.7,1354
 Big Blue,tv,"Adventure, Animation, Family",2021,tt16154056,8.3,58
 Renovation Impossible,tv,"Documentary, Reality-TV",2022,tt21638806,6.1,61
 The Weekend Workshop,tv,Reality-TV,2020,tt12769422,8.4,12
@@ -8979,7 +9111,7 @@ The Fieldhouse,tv,Reality,2021,tt12259472,8.6,6
 Everyday Cooking,tv,Reality-TV,2022,tt24055684,6.7,9
 Naked and Afraid: Alone,tv,Reality-TV,2020,tt27201446,5.9,38
 In the Kitchen with Abner and Amanda,tv,Reality-TV,2022,tt23793286,3.8,11
-Inspired Interiors with Sarah Sherman Samuel,tv,Reality-TV,2022,tt23793368,6.9,89
+Inspired Interiors with Sarah Sherman Samuel,tv,Reality-TV,2022,tt23793368,6.85,89
 Make Yourself at Home,tv,"Documentary, Reality",2022,tt23622962,8.1,12
 Jack Osbourne's Haunted Homecoming,tv,Reality-TV,2022,tt23052176,6.5,127
 La Pitchoune: Cooking in France,tv,Não informado,2022,tt21417256,6.8,216
@@ -9006,12 +9138,14 @@ Life's Journey,tv,Documentary,2017,tt7503802,8.1,16
 La promesa,tv,"Drama, Mystery, Romance",2023,tt22325164,7.0,453
 Ninjago: Dragons Rising,tv,"Action, Adventure, Animation",2023,tt27502465,7.7,1650
 Shaq,tv,"Biography, Documentary, Sport",2022,tt22876148,7.7,1847
+,tv,"Reality, Comedy",2022,Não informado,7.4,41
 The Journey of India,tv,Documentary,2022,tt23182792,7.3,20
 Lost Cities of the Bible,tv,"Documentary, History",2022,tt19781686,6.6,91
 Roadworthy Rescues,tv,Reality,2022,tt22486164,8.7,346
 Kingdom of Dreams,tv,Documentary,2022,tt22046582,8.1,312
 I Don't Like Driving,tv,Comedy,2022,tt20198626,7.2,911
 Rehab Addict Lake House Rescue,tv,Reality-TV,2022,tt23480606,7.3,23
+,tv,"Comedy, Reality, Talk",2022,Não informado,6.3,2246
 Pets & Pickers,tv,Documentary,2022,tt20249442,8.2,109
 The Culpo Sisters,tv,Reality-TV,2022,tt20221622,4.0,185
 Tell Me Everything,tv,Drama,2022,tt15768158,6.4,355
@@ -9020,7 +9154,7 @@ Universal Basic Guys,tv,"Animation, Comedy",2024,tt23469464,4.8,991
 Love Kills,tv,Horror,2023,tt16431352,6.3,11
 Osel,tv,Documentary,2022,tt26460121,6.7,19
 La Sagrada Familia,tv,Documentary,2022,tt14018824,7.5,93
-In Pursuit with John Walsh: Captured,tv,Reality-TV,2022,tt23117466,6.9,89
+In Pursuit with John Walsh: Captured,tv,Reality-TV,2022,tt23117466,6.85,89
 FBoy Island Nederland,tv,"Game-Show, Reality-TV, Romance",2022,tt23477352,5.9,72
 Flordelis: Em Nome da Mãe,tv,"Crime, Documentary",2022,tt23862164,6.7,144
 Unveiled: Surviving La Luz Del Mundo,tv,"Crime, Documentary",2022,tt23667804,7.4,415
@@ -9029,6 +9163,7 @@ True Story Finland,tv,Comedy,2022,tt23220974,7.4,44
 Fácil,tv,Comedy,2022,tt20755454,6.6,189
 Inside the Heist,tv,"Crime, Documentary",2022,tt26676711,8.1,36
 The Tetris Murders,tv,"Crime, Documentary, Mystery",2022,tt24222834,5.6,255
+,tv,"Documentary, Reality",2016,Não informado,7.1,162
 Branson,tv,"Biography, Documentary",2022,tt23865600,7.1,387
 Herre På Täppan,tv,Game-Show,2022,tt23750138,7.2,14
 Uptown Otters,tv,Documentary,2022,tt28550613,7.1,10
@@ -9038,6 +9173,7 @@ Girls Dorm,tv,"Animation, Comedy, Short",2016,tt13199492,7.9,18
 Artfully Designed,tv,Reality-TV,2022,tt24805706,7.5,36
 Classic Homes,tv,Reality-TV,2022,tt24172010,6.4,6
 The Piece Maker,tv,Reality-TV,2022,tt23485688,8.7,31
+,tv,Não informado,2023,Não informado,6.5,16
 Zodiac Island,tv,"Reality-TV, Romance",2022,tt18074278,7.6,52
 Bollywed,tv,Documentary,2023,tt20918830,6.6,180
 Mittens & Pants,tv,Family,2022,tt21309446,9.2,41
@@ -9047,11 +9183,12 @@ Mój agent,tv,Comedy,2022,tt20233502,6.0,52
 Astronauta,tv,"Adventure, Animation, Sci-Fi",2024,tt11932902,6.8,88
 Hi I'm,tv,Documentary,2021,tt23320738,9.2,6
 Luxe for Less,tv,Reality-TV,2022,tt24653416,8.4,76
+,tv,"Documentary, Reality",2017,Não informado,7.1,162
 A Mente de um Monstro: Jeffrey Dahmer - O Canibal,tv,Documentary,2020,tt16342912,7.2,125
 Hello Kitty: Super Style!,tv,"Adventure, Animation, Comedy",2022,tt15771940,6.7,73
 First Home Fix,tv,Reality-TV,2022,tt21441354,7.1,22
 "Like Mother, Like Daughter?",tv,Documentary,2022,tt16373682,9.1,12
-Body Cam: EMT,tv,Reality-TV,2022,tt31495262,6.9,89
+Body Cam: EMT,tv,Reality-TV,2022,tt31495262,6.85,89
 Five Day Biz Fix,tv,Reality,2019,tt10985806,7.3,22
 Petronix Defenders,tv,"Animation, Family",2022,tt28093013,7.6,24
 Battle of the Bling,tv,Game-Show,2022,tt21276084,6.4,16
@@ -9077,6 +9214,7 @@ Christina in the Country,tv,Documentary,2023,tt19399940,5.6,162
 Giuliani: What Happened to America's Mayor?,tv,Documentary,2023,tt26447652,6.6,118
 Rematch,tv,Thriller,2024,tt26741906,7.3,840
 Real PD: Kansas City,tv,Documentary,2021,tt16218992,8.3,52
+,tv,"Action & Adventure, Kids",2023,Não informado,6.7,1354
 Sewer Divers,tv,Documentary,2023,tt25435458,6.4,56
 The Grapes of Guilt,tv,Drama,2023,tt24218504,8.3,631
 Spring Baking Championship: Easter,tv,"Family, Reality",2022,tt17156326,8.0,23
@@ -9084,8 +9222,10 @@ NFL Tailgate Takedown,tv,Reality,2023,tt26439152,4.4,25
 "Gold, Lies & Videotape",tv,Documentary,2023,tt26342053,7.6,209
 Next Level Chef UK,tv,Game-Show,2023,tt21102618,6.6,129
 Bake It 'Til You Make It,tv,Reality-TV,2022,tt25455056,6.4,22
+,tv,Documentary,2023,Não informado,6.9,162
 Down Home Fab,tv,Family,2023,tt18263296,5.7,181
 Traitors España,tv,"Adventure, Game-Show, Reality-TV",2023,tt21272398,7.3,144
+,tv,Animation,2020,Não informado,7.0,515
 José Andres & Family in Spain,tv,Documentary,2022,tt25273500,7.9,97
 Going Fur Gold,tv,Documentary,2023,tt25785562,6.4,28
 The Price of Glee,tv,Documentary,2023,tt26475026,5.6,626
@@ -9105,14 +9245,18 @@ The Family,tv,"Drama, Romance",2023,tt21764804,6.9,14613
 Setnja sa lavom,tv,"Comedy, Drama, Romance",2022,tt24639164,6.6,208
 Prisoner of the Prophet,tv,Documentary,2023,tt26343082,6.8,179
 Creature Commandos,tv,"Action, Adventure, Animation",2024,tt26545355,7.8,18475
+,tv,Documentary,2014,Não informado,7.1,162
 Spy/Master,tv,"Action, Drama, Thriller",2023,tt22325698,7.5,4570
 "Find It, Fix It, Drive It",tv,"Documentary, History",2019,tt30793474,8.6,20
+,tv,Reality,2023,Não informado,7.4,41
+,tv,Crime,2020,Não informado,6.8,1398
 How Close Can I Beach,tv,Reality-TV,2018,tt8262122,8.0,9
 Jeopardy!,tv,Game-Show,1991,tt0779470,6.7,49
 Ex on the Beach Sverige,tv,Reality-TV,2015,tt5470438,4.6,103
 Mariachis,tv,"Comedy, Drama, Music",2022,tt11651278,5.7,181
 Batalha dos Cozinheiros,tv,Reality-TV,2016,tt6315796,6.8,89
 Polar Park,tv,"Comedy, Crime, Mystery",2023,tt29627241,7.3,729
+,tv,"Family, Reality",2023,Não informado,6.3,150
 The One That Got Away,tv,"Comedy, Drama, Romance",2018,tt7849048,7.1,40
 La maldición del Windsor,tv,Documentary,2023,tt26752319,6.4,58
 Dinosaur - with Stephen Fry,tv,"Animation, Documentary",2023,tt21154914,4.0,155
@@ -9125,6 +9269,7 @@ Jared from Subway: Catching a Monster,tv,"Crime, Documentary",2023,tt26753472,6.
 Et hardt liv med Ronny,tv,Documentary,2023,tt27163228,6.4,10
 Super Turbo Story Time,tv,"Animation, Documentary",2023,tt20918600,5.2,7
 Bookie,tv,Comedy,2023,tt22485826,7.5,6853
+,tv,"Reality, Documentary",2022,Não informado,7.4,41
 The Flipping El Moussas,tv,Documentary,2023,tt21102904,4.5,505
 Ex on the Beach Suomi,tv,Reality-TV,2020,tt14230834,4.3,13
 Extreme Snakes,tv,Documentary,2023,tt29121605,8.8,7
@@ -9145,6 +9290,7 @@ FBOY Island Danmark,tv,Reality-TV,2023,tt27179734,5.3,19
 Prince Charming Polska,tv,"Game-Show, Reality-TV, Romance",2021,tt15683426,6.5,17
 Land of Blood and Wisdom,tv,"Adventure, Drama, History",2024,tt27644193,6.9,90
 Garbage Boy and Trash Can,tv,Animation,2019,tt29289159,6.9,11
+,tv,"Reality, Family",2023,Não informado,7.4,41
 Texas Metal's Loud and Lifted,tv,"Documentary, Reality",2023,tt27520925,6.5,21
 Build It Forward,tv,"Reality, Documentary",2022,tt15771980,5.8,9
 Tempting Fortune,tv,Reality-TV,2023,tt20255056,7.0,224
@@ -9154,6 +9300,7 @@ The Whole Story with Anderson Cooper,tv,Talk-Show,2023,tt27238424,5.7,14
 Angel City,tv,Documentary,2023,tt27229094,6.8,251
 100 Years of Warner Bros.,tv,"Documentary, History",2023,tt27729024,7.5,875
 Seeking Brother Husband,tv,Reality-TV,2023,tt25919854,4.8,90
+,tv,"Action & Adventure, Reality",2019,Não informado,6.7,1354
 City of God: The Fight Rages On,tv,"Crime, Drama",2024,tt27535062,7.2,1754
 Breath of Fire,tv,"Crime, Documentary",2024,tt16291356,6.6,673
 Gordon Ramsay's Food Stars,tv,"Game-Show, Reality-TV",2023,tt27446484,5.8,488
@@ -9229,6 +9376,7 @@ Fright Krewe,tv,"Adventure, Animation, Family",2023,tt28004970,7.4,582
 Hop,tv,"Adventure, Animation, Comedy",2024,tt28054315,7.5,30
 Crack Addicts,tv,Reality-TV,2023,tt27859155,7.8,97
 Silos Baking Competition,tv,Reality-TV,2022,tt21613984,5.1,45
+,tv,"Documentary, Crime, Drama",2023,Não informado,6.9,162
 Common Side Effects,tv,"Animation, Comedy, Drama",2024,tt28093628,8.6,10889
 Morimoto's Sushi Master,tv,Reality-TV,2023,tt27836820,7.8,67
 Shaun White: The Last Run,tv,"Biography, Documentary, Sport",2023,tt27601208,8.4,411
@@ -9244,6 +9392,7 @@ Time Zone,tv,"Game-Show, Reality-TV",2022,tt28212267,5.4,110
 Project Greenlight: A New Generation,tv,"Documentary, Reality-TV",2023,tt14674810,5.9,212
 See It Loud: The History of Black Television,tv,Documentary,2023,tt28258313,6.1,82
 90 Day: The Last Resort,tv,Reality-TV,2023,tt28304310,5.9,351
+,tv,"Documentary, Reality",2023,Não informado,6.9,162
 Reno My Rental,tv,Reality-TV,2021,tt15559812,8.6,30
 High Speed Chase,tv,Crime,2023,tt28685393,7.7,100
 Barbie Dreamhouse Challenge,tv,"Game-Show, Reality-TV",2023,tt27199722,6.5,207
@@ -9265,6 +9414,7 @@ Open Season: Call of Nature,tv,"Action, Adventure, Animation",2023,tt28569084,7.
 "Mother, May I Murder?",tv,Crime,2023,tt28659359,6.6,82
 Does Murder Sleep?,tv,Crime,2023,tt28606450,6.6,65
 Kim vs Kanye: The Divorce,tv,Documentary,2023,tt28612982,5.2,376
+,tv,Comedy,2023,Não informado,6.3,2246
 Battle of the Decades,tv,Reality,2023,tt28511620,5.7,28
 Nature's Fast Attacks,tv,Documentary,2022,tt23854642,7.9,12
 Super Street Garage,tv,Reality,2023,tt28487037,7.4,23
@@ -9285,9 +9435,11 @@ Minibods,tv,"Animation, Kids",2023,tt27516539,8.9,19
 Klara,tv,Comedy,2024,tt27813193,6.4,91
 Design Down Under,tv,Reality-TV,2023,tt30089970,7.6,14
 Savior Complex,tv,"Crime, Documentary",2023,tt28787850,6.8,860
+,tv,"Action & Adventure, Reality",2013,Não informado,6.7,1354
 "Ça, c'est Paris!",tv,"Comedy, Drama",2024,tt30485784,6.1,59
 Secret Lives of Stepford Wives,tv,Crime,2014,tt3858684,6.4,45
 La Vida Secreta de tu Mente,tv,Animation,2023,tt30818330,6.8,8
+,tv,"Documentary, Crime",2023,Não informado,6.9,162
 The Attic: Sarah Jane Adventures 10th Anniversary Reunion,tv,Talk-Show,2017,tt6507046,6.85,58
 Wardens of the North,tv,Reality-TV,2023,tt29516491,5.8,30
 Wild Assassins,tv,Adventure,2023,tt28603787,2.6,13
@@ -9301,6 +9453,7 @@ Jack Osbourne's Night of Terror,tv,Reality,2023,tt29763895,7.6,81
 Navajo Police: Class 57,tv,Documentary,2023,tt21357608,7.8,237
 Luva de Pedreiro: O Rei da Jogada,tv,"Documentary, Sport",2024,tt34530164,7.1,17
 Selena + Chef: Home for the Holidays,tv,Reality-TV,2023,tt27791093,8.0,165
+,tv,"Animation, Documentary, Talk",2024,Não informado,7.0,515
 Home Sweet Rome!,tv,"Comedy, Family, Musical",2023,tt20215742,5.6,115
 Hostage 911,tv,Crime,2023,tt29426050,7.2,26
 Yo fui un asesino: el crimen de la catana,tv,Documentary,2017,tt16959914,5.5,31
@@ -9310,12 +9463,11 @@ Scent of Time,tv,"Drama, Fantasy, History",2023,tt29456947,7.7,323
 Star Vs Food Survival,tv,Adventure,2023,tt32105103,6.6,6
 Crimefeed,tv,Crime,2023,tt29453751,5.8,56
 Autentyczni,tv,Documentary,2020,tt12708128,6.9,162
-Border Control: Sweden,tv,Reality-TV,2023,tt29560214,7.3,83
 Ready to Love: Make a Move,tv,Reality-TV,2023,tt29490728,7.0,36
 Deane's Dynasty,tv,Reality-TV,2023,tt28115804,8.2,15
 Border Control Italia,tv,Reality-TV,2022,tt32538410,7.4,5
 La hija de Dios,tv,Documentary,2023,tt29686758,7.4,71
-The Great Antiques Challenge,tv,Reality-TV,2023,tt29053553,6.9,89
+The Great Antiques Challenge,tv,Reality-TV,2023,tt29053553,6.85,89
 Garavito: La bestia serial,tv,Documentary,2023,tt29610822,7.4,147
 Faster with Newbern and Cotten,tv,Reality,2023,tt29294511,7.7,11
 The Garden: Commune or Cult,tv,Reality-TV,2023,tt29890377,5.7,454
@@ -9324,6 +9476,7 @@ Jack Osbourne's Buried Bloodlines,tv,Documentary,2023,tt31970919,6.7,18
 The Narrow Road to the Deep North,tv,"Romance, War",2025,tt11389652,7.2,1297
 Hard Cell,tv,Documentary,2020,tt14599796,6.4,8
 The Children of Evil,tv,"Crime, Mystery, Thriller",2023,tt21987088,8.2,4895
+,tv,Não informado,2023,Não informado,6.5,16
 Luke Nguyen's India,tv,Documentary,2023,tt30097806,7.7,15
 Ignition,tv,Sport,2012,tt6513174,7.0,40
 Hero Inside,tv,"Action, Animation, Comedy",2023,tt24165980,7.6,451
@@ -9344,6 +9497,7 @@ Dope Girls,tv,"Crime, Drama",2025,tt27191732,6.1,792
 Vinnie Jones in the Country,tv,Reality-TV,2023,tt30799242,7.9,257
 Custom Carolina,tv,Reality-TV,2023,tt29712866,6.1,28
 Road Rage,tv,"Crime, Documentary, Reality-TV",2023,tt3732182,5.9,59
+,tv,"Reality, Documentary, Talk",2023,Não informado,7.4,41
 Annie Rose's Critter Camp,tv,Animation,2020,tt22200788,7.4,13
 Boom Boom Bruno,tv,Crime,2023,tt20218422,6.3,209
 The Power of Film,tv,Documentary,2024,tt30423047,7.6,467
@@ -9379,12 +9533,16 @@ Battle on the Mountain,tv,Reality-TV,2024,tt30407466,6.5,53
 Ciezarówka przez Route 66,tv,Reality-TV,2019,tt27747200,8.1,11
 Long Bright River,tv,"Crime, Drama, Thriller",2025,tt8332798,6.9,6747
 The Many Lives of Martha Stewart,tv,Documentary,2024,tt31186387,7.5,234
+,tv,Documentary,2024,Não informado,6.9,162
 The Truth About Jim,tv,"Crime, Documentary",2024,tt31114733,5.0,1059
+,tv,"Comedy, Reality",2024,Não informado,6.3,2246
 Politihundene,tv,Reality-TV,2024,tt31465421,6.5,6
+,tv,Reality,2024,Não informado,7.4,41
 Women in Prison,tv,"Crime, Documentary",2015,tt5614062,7.3,43
 "STAX: Soulsville, U.S.A.",tv,"Documentary, Music",2024,tt19891206,8.5,705
 Quiet on Set: The Dark Side of Kids TV,tv,"Crime, Documentary",2024,tt31193442,7.5,12197
 Ren Faire,tv,Documentary,2024,tt30835095,6.8,2087
+,tv,Não informado,2024,Não informado,6.5,16
 The Americas,tv,Documentary,2025,tt27739990,8.3,943
 Franjinha e Milena: Em Busca da Ciência,tv,Adventure,2024,tt31324174,7.3,18
 United States of Scandal with Jake Tapper,tv,Documentary,2024,tt30970864,7.3,117
@@ -9404,6 +9562,7 @@ Bail Jumpers,tv,Reality-TV,2024,tt31113651,6.5,48
 Lakefront Empire,tv,Reality-TV,2024,tt31805469,5.2,42
 Fixer to Fabulous: Italiano,tv,Reality-TV,2024,tt27953349,6.4,88
 Don't Hate Your House with the Property Brothers,tv,Reality,2024,tt29534542,6.9,49
+,tv,Drama,2009,Não informado,7.2,2625
 "Menem Junior, la muerte del hijo del presidente",tv,Documentary,2024,tt31540591,7.0,111
 Shed & Buried: Classic Cars,tv,"Documentary, Reality-TV",2024,tt31862552,8.1,29
 Malditos,tv,Drama,2025,tt36774488,5.8,61
@@ -9417,13 +9576,16 @@ Talking Sopranos,tv,Talk-Show,2020,tt13833958,9.1,356
 The Bad Foot Clinic,tv,"Documentary, Reality-TV",2024,tt31889179,6.9,12
 Dylan's Playtime Adventures,tv,"Animation, Comedy, Family",2024,tt31868196,8.2,38
 Take My Tumor,tv,Reality-TV,2024,tt31720743,6.4,258
+,tv,Reality,2009,Não informado,7.35,41
 Mud Madness,tv,Reality-TV,2024,tt32084770,6.9,59
 Small Town Potential,tv,Reality-TV,2023,tt27075311,7.6,68
 Massacre of the Mormons,tv,"Crime, Documentary",2024,tt32192677,6.7,182
 The Never Ever Mets,tv,"Reality-TV, Romance",2024,tt31596340,6.3,77
+,tv,"Reality, Drama",2007,Não informado,7.35,41
 MILF of Norway,tv,Comedy,2024,tt32424747,6.2,598
 St. Denis Medical,tv,Comedy,2024,tt21433690,7.0,4542
 Design Goals,tv,Reality-TV,2023,tt29343555,5.7,9
+,tv,Drama,2014,Não informado,6.7,2625
 An Update on Our Family,tv,"Documentary, Drama",2024,tt32157063,5.6,496
 Expedition from Hell: The Lost Tapes,tv,Documentary,2024,tt32308371,7.6,326
 Sierra Madre: No Trespassing,tv,Drama,2023,tt29277418,6.0,324
@@ -9437,6 +9599,7 @@ One South: Portrait of a Psych Unit,tv,Documentary,2024,tt32267462,7.2,284
 Felices los 6,tv,Comedy,2024,tt32263045,6.2,400
 The Eastern Gate,tv,"Drama, War",2025,tt35503291,7.0,1217
 Thirst with Shay Mitchell,tv,Documentary,2024,tt32421379,6.2,192
+,tv,Animation,2024,Não informado,7.0,515
 Next Baking Master: Paris,tv,Reality,2024,tt32308155,7.6,68
 Taylor Swift vs Scooter Braun: Bad Blood,tv,Documentary,2024,tt32310438,5.7,621
 Lupi & Baduki,tv,Animation,2024,tt28132067,8.8,20
@@ -9451,6 +9614,7 @@ The Originals: Awakening,tv,"Mystery, Short",2013,tt4151288,8.4,4609
 Lady Love,tv,Drama,2024,tt34054959,6.1,343
 Alien Encounters: Fact or Fiction,tv,Reality-TV,2024,tt32622434,5.4,130
 Yo fui un Narco,tv,Crime,2018,tt17072544,7.7,7
+,tv,Não informado,2018,Não informado,7.0,16
 Violent Earth,tv,Documentary,2024,tt32623398,7.8,105
 Cris Miró (Ella),tv,"Biography, Drama",2024,tt32495809,6.6,232
 Backed by the Bros,tv,Reality-TV,2024,tt29533504,6.6,62
@@ -9459,6 +9623,8 @@ Unusual Suspects: Deadly Intent,tv,"Crime, Documentary",2017,tt16636174,7.5,47
 "Oh My God, Yes!",tv,"Animation, Comedy",2023,tt27842369,4.0,219
 Red Planet Rover,tv,Documentary,2014,tt5076266,6.9,12
 Farmhouse Fixer: Camp Revamp,tv,Reality-TV,2024,tt32756286,7.4,62
+,tv,"Documentary, Reality",2013,Não informado,7.1,162
+,tv,"Reality, Documentary",2024,Não informado,7.4,41
 King of Zanzibar,tv,Documentary,2024,tt32813639,6.6,146
 Sin City Tow,tv,Reality-TV,2024,tt32645347,6.8,97
 Rattlesnake Republic,tv,Reality-TV,2011,tt2278245,5.6,82
@@ -9466,19 +9632,26 @@ Second to None,tv,Documentary,2024,tt32237292,6.7,24
 House Hunters: Amazing Water Homes,tv,Não informado,2023,tt36303569,6.5,16
 The Black Widower: The Six Wives of Thomas Randolph,tv,"Crime, Documentary",2024,tt32844085,6.4,3087
 Forbidden Love,tv,Reality-TV,2024,tt32598793,6.5,62
+,tv,"Drama, Mystery, War & Politics",2024,Não informado,6.5,2625
 "Teen Torture, Inc.",tv,"Crime, Documentary",2024,tt32821057,7.0,2985
+,tv,"Animation, Action & Adventure, Kids, Comedy, Family, Sci-Fi & Fantasy",2007,Não informado,7.1,515
 In the Eye of the Storm,tv,"Documentary, Reality-TV",2024,tt33014623,8.2,478
 Fatal Affairs,tv,"Crime, Documentary",2024,tt34445516,6.1,20
 Charlie Hustle & the Matter of Pete Rose,tv,"Documentary, Sport",2024,tt32881541,7.5,586
 Contraband: Seized at Sea,tv,Crime,2024,tt33484556,7.4,30
 Great White Serial Killer: Sea of Blood,tv,Documentary,2024,tt32467647,7.2,33
 Suits LA,tv,Drama,2025,tt29485142,5.7,4950
+,tv,"Reality, Family",2013,Não informado,6.1,41
+,tv,Reality,2012,Não informado,6.1,41
 Taken Together: Who Killed Lyric and Elizabeth?,tv,"Crime, Documentary",2024,tt33035689,6.7,1152
+,tv,"Reality, Soap",2024,Não informado,7.4,41
 Wise Guy: David Chase and the Sopranos,tv,"Biography, Documentary",2024,tt32254668,8.2,3606
+,tv,Talk,2023,Não informado,6.7,1354
 Brutalt Broderskab - Comanches,tv,"Crime, Documentary, History",2024,tt33504663,7.2,49
 Ambient Swim,tv,Animation,2021,tt30137479,8.7,89
 Field Trip with Curtis Stone,tv,Documentary,2020,tt8546126,7.2,12
 No Script with Marshawn Lynch,tv,"Comedy, Reality",2017,tt7936000,8.6,18
+,tv,"Reality, Documentary",2023,Não informado,7.4,41
 Born Evil: The Serial Killer and the Savior,tv,"Crime, Documentary",2024,tt33081933,6.8,597
 The Ayotzinapa 43: State Crime,tv,Documentary,2024,tt33410236,8.1,114
 Who's Afraid of a Cheap Old House?,tv,Reality-TV,2024,tt33062319,8.1,22
@@ -9486,6 +9659,7 @@ Who's Afraid of a Cheap Old House?,tv,Reality-TV,2024,tt33062319,8.1,22
 Human vs Hamster,tv,"Game-Show, Reality-TV",2024,tt29958453,5.4,133
 Second Chance Stage,tv,"Game-Show, Reality-TV",2024,tt29958439,6.6,33
 BBQ High,tv,Reality-TV,2024,tt33054453,7.8,28
+,tv,"Crime, Documentary",2024,Não informado,6.8,1398
 How (Not) to Get Rid of a Body,tv,Crime,2024,tt33305643,6.5,108
 No tenéis ni **** idea,tv,"Documentary, Sport",2024,tt34088516,7.6,97
 El caso Sancho,tv,Documentary,2024,tt33319186,5.1,183
@@ -9494,7 +9668,9 @@ A Decent Man,tv,"Crime, Drama",2025,tt35745132,6.7,471
 The Floor Sverige,tv,Reality,2024,tt35683901,7.4,41
 Brides Gone Styled,tv,Reality-TV,2015,tt4814120,7.8,20
 How I Left the Opus Dei,tv,Documentary,2024,tt33749186,7.2,408
+,tv,"Reality, Action & Adventure",2024,Não informado,7.4,41
 TV on the Edge: Moments That Shaped Our Culture,tv,Documentary,2024,tt33303902,7.4,58
+,tv,"Animation, Kids, Family, Comedy",1961,Não informado,7.1,515
 Fast Friends,tv,"Game-Show, Reality-TV",2024,tt33481273,3.6,332
 Scariest House in America,tv,Reality-TV,2024,tt33305795,6.9,92
 Bargain Block: New Orleans,tv,Family,2024,tt31282152,8.6,47
@@ -9504,7 +9680,9 @@ Maine Cabin Masters: Building Italy,tv,Reality-TV,2024,tt32510438,9.0,40
 Lowcy skór,tv,"Crime, Documentary, Drama",2024,tt34483519,7.5,166
 Body by Beth,tv,Comedy,2024,tt29084153,6.5,8
 Operation Sabre,tv,"Crime, Drama, Thriller",2024,tt31227639,8.1,2613
+,tv,"Crime, Reality",2024,Não informado,6.8,1398
 Contraband: Seized at the Airport,tv,Reality-TV,2024,tt34570256,5.6,29
+,tv,Crime,2024,Não informado,6.8,1398
 Game Changers,tv,Documentary,2024,tt34238877,7.7,66
 Expedition Files,tv,"Adventure, Documentary, History",2024,tt34237554,7.2,206
 The Last Woodsmen,tv,Reality-TV,2024,tt34153190,5.7,262
@@ -9526,20 +9704,31 @@ Rikoksen anatomia,tv,Documentary,2019,tt14270888,6.1,14
 Ultimate Escape Suomi,tv,Reality-TV,2021,tt18330854,6.9,17
 The Dog & Pony Show,tv,"Animation, Comedy",2020,tt13049926,7.6,51
 Dra. Lucía: Un Don Extraordinario,tv,"Action, Drama, Mystery",2023,tt29433936,7.7,27
+,tv,Animation,2020,Não informado,7.0,515
+,tv,"Drama, Family, Comedy",2024,Não informado,6.5,2625
 999 Murderer Calling,tv,"Documentary, Crime",2024,tt34774877,6.4,10
 Betting on Paradise,tv,Reality-TV,2025,tt35302099,6.1,44
 Was I a Sex Object?,tv,Documentary,2024,tt34774890,6.2,46
+,tv,Animation,2016,Não informado,6.6,515
+,tv,Animation,2005,Não informado,7.1,515
 The Curious Case of...,tv,"Crime, Documentary",2025,tt34998832,4.9,467
+,tv,"Family, Kids, Animation",2023,Não informado,6.3,150
 Baylen Out Loud,tv,Reality-TV,2025,tt34881067,7.5,537
+,tv,Reality,2025,Não informado,7.4,41
 "Coyotl, Hero and Beast",tv,Fantasy,2025,tt11897206,5.2,285
+,tv,Animation,2017,Não informado,6.6,515
 Reframed: Next Gen Narratives,tv,"Comedy, Drama",2025,tt35059110,6.0,16
+,tv,"Reality, Documentary",2018,Não informado,6.1,41
 Hidden Inventory,tv,"Action, Adventure, Animation",2023,tt21361588,8.0,6573
 Mansions and Murders,tv,Crime,2015,tt4742166,7.5,29
 Cameras Under Fire,tv,Documentary,2025,tt20895732,7.1,12
 Arktinen retkikunta,tv,Reality-TV,2023,tt26426290,5.0,6
+,tv,Talk,2025,Não informado,6.7,1354
 Garage Kings Suomi,tv,Reality,2020,tt14207274,7.4,41
 The Fall of Diddy,tv,Documentary,2025,tt35400412,6.5,1879
+,tv,"Kids, Animation, Comedy",2005,Não informado,6.7,1354
 Harpoon Hunters,tv,Reality-TV,2025,tt35469209,6.2,50
+,tv,Não informado,2025,Não informado,6.5,16
 Jon blir bonde,tv,Reality-TV,2025,tt35728580,8.0,87
 The Takedown: American Aryans,tv,Documentary,2025,tt35504001,6.3,373
 Eyes on the Prize III: We Who Believe in Freedom Cannot Rest,tv,Documentary,2024,tt34280325,5.9,81
@@ -9552,6 +9741,9 @@ Excellency,tv,"Game-Show, Mystery, Reality-TV",2025,tt35820037,4.1,7
 Kobe: The Making of a Legend,tv,Documentary,2025,tt35673732,6.6,179
 The Flip Off,tv,Reality-TV,2025,tt35156712,6.7,164
 Paul American,tv,"Drama, Reality-TV",2025,tt35635261,2.5,1412
+,tv,"Animation, Sci-Fi & Fantasy, Comedy, Action & Adventure",2020,Não informado,7.0,515
+,tv,"Reality, Documentary",2025,Não informado,7.4,41
+,tv,"Crime, Documentary",2025,Não informado,6.8,1398
 I solkorsets tegn,tv,History,1981,tt0275135,5.8,6
 The Baldwins,tv,Reality-TV,2025,tt32544588,3.6,847
 House of Knives,tv,Reality-TV,2025,tt35667442,5.8,97
@@ -9559,18 +9751,27 @@ Filthy Fortunes,tv,Reality-TV,2025,tt35747121,7.0,76
 A Body in the Snow: The Trial of Karen Read,tv,"Crime, Documentary",2025,tt35663090,6.8,1089
 Jay & Pamela,tv,Reality-TV,2025,tt35668129,8.3,82
 Twitter: Breaking the Bird,tv,Documentary,2025,tt36071687,6.7,158
+,tv,"Documentary, War & Politics",2023,Não informado,6.9,162
 Bleach: Thousand-Year Blood War,tv,"Action, Adventure, Animation",2022,tt14986406,9.0,61232
 The Happos Family,tv,"Animation, Comedy",2016,tt7636600,5.7,36
+,tv,"Drama, Soap",1989,Não informado,7.45,2625
+,tv,"Crime, Reality",2025,Não informado,6.8,1398
 Hollywood Demons,tv,"Crime, Documentary",2025,tt36041664,6.5,403
 Bateau Mouche: O Naufrágio da Justiça,tv,"Crime, Documentary",2025,tt36261058,7.8,87
 A Clean Sheet: Gabe Landeskog,tv,Documentary,2025,tt36041829,9.4,40
 Reformed,tv,Drama,2025,tt36217717,7.1,170
+,tv,Não informado,1982,Não informado,6.8,16
 Operação Transplante,tv,Documentary,2025,tt36334618,9.8,6
 Polyfamily,tv,Reality,2025,tt36214716,4.0,52
+,tv,"Documentary, Crime",2025,Não informado,6.9,162
 One for All,tv,"Documentary, Sport",2023,tt27719601,7.6,10
 The Dark Money Game,tv,Documentary,2025,tt36460546,7.6,304
+,tv,Mystery,2025,Não informado,6.1,1203
+,tv,"Drama, Crime, Mystery",2025,Não informado,6.5,2625
+,tv,"Action & Adventure, Sci-Fi & Fantasy, Drama, Comedy",2015,Não informado,6.7,1354
 Lockerbie: The Bombing of Pan Am 103,tv,"Crime, Documentary, History",2025,tt35422524,7.4,91
 Castle Impossible,tv,Reality-TV,2025,tt36503976,7.9,94
 The House That Dragons Built,tv,Documentary,2022,tt26761151,8.1,235
 Toxic,tv,Documentary,2025,tt36495586,6.2,79
 The Bakersfield 3: A Tale of Murder and Motherhood,tv,Documentary,2025,tt36926665,6.3,112
+,tv,"Documentary, Crime, Mystery",2025,Não informado,6.9,162
