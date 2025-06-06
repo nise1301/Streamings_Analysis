@@ -145,4 +145,10 @@ A meta é criar um assistente inteligente que não apenas mostra "o que assistir
 
 ---
 
+LINK para o pitch de Apresentação no Notion:
+
+https://www.notion.so/Streaming-Wars-Dados-Estrat-gias-e-Pipoca-20a420e8f0488096ad55ce19d2b743e5?source=copy_link
+
+---
+
 *"Dos dados à decisão: transformando análise em experiência personalizada para cada usuário."*
