@@ -32,6 +32,10 @@ STREAMING/
 │   ├── 📓 analise_netflix.ipynb      # Análise Netflix
 │   └── 📓 analise_prime.ipynb        # Análise Prime Video
 │
+├── 📁 Apresentação/          
+│   ├── 📄 Pitch_Streaming_Wars_Dados_Estrategias_e_Pipoca.pdf        
+│   ├── 📓 um_notebook_para_todos_governar.ipynb
+│           
 ├── 📁 Dados/                         # Datasets originais
 │   ├── 📄 data_apple_tv.csv
 │   ├── 📄 data_hbo_max.csv
@@ -48,9 +52,14 @@ STREAMING/
 │   └── 📄 data_netflix_cleanML.csv
 │
 └── 📁 Visualizações/                 # Análises comparativas
-    ├── 📓 diferencas_streamings.ipynb
-    ├── 📓 ranking_platform.ipynb
-    └── 📋 streaming_dicionario.md
+│   ├── 📓 diferencas_streamings.ipynb
+│    ├── 📓 ranking_platform.ipynb
+│    ├── 📓 estrategia_plataforma.ipynb
+│    ├── 📓 perfil_medio.ipynb
+│    ├── 📓 titulos_mais_votados.ipynb    
+│
+├──📋 streaming_dicionario.md
+
 ```
 
 ## 🛠️ Metodologia
@@ -145,10 +154,7 @@ A meta é criar um assistente inteligente que não apenas mostra "o que assistir
 
 ---
 
-LINK para o pitch de Apresentação no Notion:
-
+LINK para o Pitch da Apresentação no Notion: 
 https://www.notion.so/Streaming-Wars-Dados-Estrat-gias-e-Pipoca-20a420e8f0488096ad55ce19d2b743e5?source=copy_link
-
----
 
 *"Dos dados à decisão: transformando análise em experiência personalizada para cada usuário."*
